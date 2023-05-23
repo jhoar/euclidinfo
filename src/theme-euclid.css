@@ -102,8 +102,8 @@
 /* Applied to body with `<body data-theme="seafoam">` */
 /* Created with: https://csshero.org/mesher/ */
 [data-theme='seafoam'] {
-	background: linear-gradient(0deg, rgba(5, 102, 120, 1) 0%, rgba(0, 48, 63, 1) 75%, rgba(0, 48, 63, 1) 100%);
+	background: linear-gradient(0deg, rgba(5, 102, 120, 1) 0%, rgba(0, 48, 63, 1) 75%, rgba(0, 48, 63, 1) 100%) no-repeat fixed;
 }
 .dark [data-theme='seafoam'] {
-	background: linear-gradient(0deg, rgba(5, 102, 120, 1) 0%, rgba(0, 48, 63, 1) 75%, rgba(0, 48, 63, 1) 100%);
+	background: linear-gradient(0deg, rgba(5, 102, 120, 1) 0%, rgba(0, 48, 63, 1) 75%, rgba(0, 48, 63, 1) 100%) no-repeat fixed;
 }
