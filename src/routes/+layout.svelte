@@ -5,6 +5,44 @@
 	import '@skeletonlabs/skeleton/styles/skeleton.css';
 	// Most of your app wide CSS should be put in this file
 	import '../app.postcss';
+
+	import { AppShell, AppBar } from '@skeletonlabs/skeleton';
+
+	import { locale, mode } from '../Store.js';
+
+
 </script>
 
-<slot />
+
+<AppShell>
+	<!-- Page Route Content -->
+	<slot />
+	<svelte:fragment slot="footer">
+		<!-- App Bar -->
+		<AppBar>
+			<svelte:fragment slot="lead">
+				<strong class="text-white text-2xl px-2 bg-red-600">Euclid</strong>
+			</svelte:fragment>
+			<svelte:fragment slot="trail">
+				<!-- <select class="text-black focus:ring-0 rounded-full bg-inherit border-black focus:ring-black focus:border-black" bind:value={language}> -->
+				<select class="bg-gray-50 border border-gray-300 text-gray-900 text-lg rounded-lg focus:ring-gray-300 focus:border-gray-500 block w-full dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-gray-500 dark:focus:border-gray-700 appearance-none" bind:value={$locale}>
+					<option value="en">English</option>
+					<option value="fr">Français</option>
+					<option value="es">Español</option>
+				</select>
+				<select class="bg-gray-50 border border-gray-300 text-gray-900 text-lg rounded-lg focus:ring-gray-300 focus:border-gray-500 block w-full dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-gray-500 dark:focus:border-gray-700 appearance-none" bind:value={$mode}>
+					<option value="normal">Normal</option>
+					<option value="simple">Simple</option>
+					<option value="hard">Hard</option>
+				</select>
+			</svelte:fragment>
+		</AppBar>
+	</svelte:fragment>
+</AppShell>
+
+<style>
+	:global(select) {
+		padding-left: 20px;
+		box-sizing: border-box;
+    }
+</style>

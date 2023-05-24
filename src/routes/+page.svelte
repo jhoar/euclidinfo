@@ -1,5 +1,9 @@
-<div style="background-image: url(/euclidcrop.jpg); background-size: 50%; background-repeat: no-repeat; background-size: cover;" class="container h-full mx-auto flex justify-center items-center">
-	<div class="space-y-5">
-		<h1 class="h1">Euclid!</h1>
+<script lang='ts'>
+	import { locale, mode } from '../Store.js';
+</script>
+
+<div class="container h-full mx-auto flex justify-center items-center">
+	<div class="imgbckspace-y-5">
+		<h1 class="h1">Euclid! in {$locale} {$mode}</h1>
 	</div>
 </div>
