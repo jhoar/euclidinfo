@@ -1,6 +1,5 @@
 import { writable } from 'svelte/store'
 
-const locale = writable('es');
-const mode = writable('normal')
+const locale = writable('en');
 
-export { locale, mode }
+export { locale }
