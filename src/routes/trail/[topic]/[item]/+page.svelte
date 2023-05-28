@@ -2,7 +2,6 @@
 	import { locale } from '../../../../Store.js';
     import type { PageData } from './$types';
     export let data: PageData;
-    console.log(data.json)
 </script>
 
 {#each data.json as doc} 
@@ -14,17 +13,17 @@
 
 <div class="grid grid-cols-3 gap-4">
     <div>
-{#if data.prev !== ""}
-<a class="btn rounded-md variant-filled-success py-1" href={data.prev}>Previous</a>
-{/if}
+        {#if data.prev !== ""}
+            <a class="btn rounded-md variant-filled-success py-1 flex justify-left" href={data.prev}>Previous</a>
+        {/if}
     </div>
     <div>
-        <a class="btn rounded-md variant-filled-success py-1" href="/">Home</a>
+        <a class="btn rounded-md variant-filled-success py-1 flex justify-center" href="/">Home</a>
     </div>
     <div>
-{#if data.next !== ""}
-<a class="btn rounded-md variant-filled-success py-1" href={data.next}>Next</a>
-{/if}
+        {#if data.next !== ""}
+            <a class="btn rounded-md variant-filled-success py-1 flex justify-right" href={data.next}>Next</a>
+        {/if}
     </div>
 </div>
 
