@@ -17,5 +17,5 @@ export const load = ( async ({ fetch, params }) => {
         item['html'] = await htmlresp.text(); 
     }
 
-    return {json: itemData}
+    return {json: itemData, prev: jsondata[params.item]['prev'], next: jsondata[params.item]['next']}
 }) satisfies PageLoad;
