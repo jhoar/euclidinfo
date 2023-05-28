@@ -1,0 +1,46 @@
+{
+    "langauges": ["en", "fr", "es"],
+    "trails": [ 
+        {
+            "doc": [
+                {
+                    "lang": "en", 
+                    "title": "Discover Euclid",
+                    "subtitle": "Learn all about the Euclid mission"
+                },
+                {
+                    "lang": "fr", 
+                    "title": "Découvrez Euclid",
+                    "subtitle": "Tout savoir sur la mission Euclid"
+                },
+                {
+                    "lang": "es", 
+                    "title": "Descubre Euclid",
+                    "subtitle": "Aprende todo sobre la misión Euclid"
+                }
+            ],
+            "url": "trail/discover"
+        },
+        {
+            "doc": [
+                {
+                    "lang": "en", 
+                    "title": "Cosmic echoes",
+                    "subtitle": "Baryonic Acoustic Oscillations leave a fingerprint on the structure of the universe."
+                },
+                {
+                    "lang": "fr", 
+                    "title": "Échos cosmiques",
+                    "subtitle": "Les oscillations acoustiques baryoniques laissent une empreinte sur la structure de l'univers."
+                },
+                {
+                    "lang": "es", 
+                    "title": "Ecos cósmicos",
+                    "subtitle": "Las oscilaciones acústicas bariónicas dejan una huella en la estructura del universo."
+                }
+            ],
+            "url": "trail/bao"
+        }
+
+   ]
+}
