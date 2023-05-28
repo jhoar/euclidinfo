@@ -1,0 +1,46 @@
+{
+    "intro": {
+        "data":  
+            [
+                {
+                    "lang": "en",
+                    "title": "Euclid: Exploring the Dark Universe (EN)",
+                    "html": ""
+                }, 
+                {
+                    "lang": "fr",
+                    "title": "Euclid: Exploring the Dark Universe (FR)",
+                    "html": ""
+                },
+                {
+                    "lang": "es",
+                    "title": "Euclid: Exploring the Dark Universe (ES)",
+                    "html": ""
+                }
+        ],
+        "prev": "",
+        "next": "l2"
+    }, 
+    "l2": {
+        "data":  
+            [
+                {
+                    "lang": "en",
+                    "title": "Euclid: L2 (EN)",
+                    "html": ""
+                }, 
+                {
+                    "lang": "fr",
+                    "title": "Euclid: L2 (FR)",
+                    "html": ""
+                },
+                {
+                    "lang": "es",
+                    "title": "Euclid: L2 (ES)",
+                    "html": ""
+                }
+        ],
+        "prev": "intro",
+        "next": ""
+    }
+}
