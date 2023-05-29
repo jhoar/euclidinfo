@@ -7,13 +7,17 @@
 	let header : { [lang: string]: string } = {
 		'en' : 'Learn about Euclid',
 		'fr' : 'En savoir plus sur Euclid',
-		'es' : 'Aprender sobre Euclid'
+		'es' : 'Aprender sobre Euclid',
+		'de' : 'Lernen Sie über Euclid',
+		'it' : 'Conoscere Euclid'
 	};
 
 	let start : { [lang: string]: string } = {
 		'en' : 'Start',
 		'fr' : 'Commencer',
-		'es' : 'Empezar'
+		'es' : 'Empezar',
+		'de' : 'Starten',
+		'it' : 'Inizio'
 	};
 
 </script>

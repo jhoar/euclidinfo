@@ -1,5 +1,4 @@
 {
-    "langauges": ["en", "fr", "es"],
     "trails": [ 
         {
             "doc": [
@@ -17,6 +16,16 @@
                     "lang": "es", 
                     "title": "Descubre Euclid",
                     "subtitle": "Aprende todo sobre la misión Euclid"
+                },
+                {
+                    "lang": "de", 
+                    "title": "Euclid entdecken",
+                    "subtitle": "Erfahren Sie alles über die Euclid-Mission"
+                },
+                {
+                    "lang": "it", 
+                    "title": "Scoprire Euclid",
+                    "subtitle": "Scopri tutto sulla missione di Euclid"
                 }
             ],
             "url": "trail/discover/intro",
@@ -38,6 +47,16 @@
                     "lang": "es", 
                     "title": "Ecos cósmicos",
                     "subtitle": "Las oscilaciones acústicas bariónicas dejan una huella en la estructura del universo."
+                },
+                {
+                    "lang": "de", 
+                    "title": "Kosmische Echos",
+                    "subtitle": "Baryonische akustische Oszillationen hinterlassen einen Fingerabdruck in der Struktur des Universums."
+                },
+                {
+                    "lang": "it", 
+                    "title": "Echi cosmici",
+                    "subtitle": "Le oscillazioni acustiche barioniche lasciano un'impronta sulla struttura dell'universo."
                 }
             ],
             "url": "trail/bao/intro",
