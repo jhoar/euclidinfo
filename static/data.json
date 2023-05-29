@@ -35,31 +35,31 @@
             "doc": [
                 {
                     "lang": "en", 
-                    "title": "Cosmic echoes",
+                    "title": "Cosmic echoes (DEMO)",
                     "subtitle": "Baryonic Acoustic Oscillations leave a fingerprint on the structure of the universe."
                 },
                 {
                     "lang": "fr", 
-                    "title": "Échos cosmiques",
+                    "title": "Échos cosmiques (DEMO)",
                     "subtitle": "Les oscillations acoustiques baryoniques laissent une empreinte sur la structure de l'univers."
                 },
                 {
                     "lang": "es", 
-                    "title": "Ecos cósmicos",
+                    "title": "Ecos cósmicos (DEMO)",
                     "subtitle": "Las oscilaciones acústicas bariónicas dejan una huella en la estructura del universo."
                 },
                 {
                     "lang": "de", 
-                    "title": "Kosmische Echos",
+                    "title": "Kosmische Echos (DEMO)",
                     "subtitle": "Baryonische akustische Oszillationen hinterlassen einen Fingerabdruck in der Struktur des Universums."
                 },
                 {
                     "lang": "it", 
-                    "title": "Echi cosmici",
+                    "title": "Echi cosmici (DEMO)",
                     "subtitle": "Le oscillazioni acustiche barioniche lasciano un'impronta sulla struttura dell'universo."
                 }
             ],
-            "url": "trail/bao/intro",
+            "url": "trail/bao/bao",
             "image": "/discover.jpg"
         }
    ]
