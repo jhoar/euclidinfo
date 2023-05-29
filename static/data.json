@@ -19,7 +19,8 @@
                     "subtitle": "Aprende todo sobre la misión Euclid"
                 }
             ],
-            "url": "trail/discover/intro"
+            "url": "trail/discover/intro",
+            "image": "/discover.jpg"
         },
         {
             "doc": [
@@ -39,8 +40,8 @@
                     "subtitle": "Las oscilaciones acústicas bariónicas dejan una huella en la estructura del universo."
                 }
             ],
-            "url": "trail/bao/intro"
+            "url": "trail/bao/intro",
+            "image": "/discover.jpg"
         }
-
    ]
 }

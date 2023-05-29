@@ -26,7 +26,13 @@
 				{#if doc.lang === $locale}
 				<div class="card m-2">
 					<header class="card-header variant-filled-tertiary rounded-none rounded-t-lg text-white text-2xl py-3">{(doc.title).toUpperCase()}</header>
-					<section class="p-4 bg-black">{doc.subtitle}</section>
+					<section class="bg-black">
+						<div>
+							<img src={trail.image} alt={doc.title}/>
+						</div>
+						<div class='p-4 text-lg'>
+							{doc.subtitle}
+						</div></section>
 					<footer class="card-footer flex justify-center bg-black rounded-none rounded-b-lg pl-1 py-2"><a class="btn rounded-md variant-filled-success py-1" href={trail.url}>{start[$locale]}</a></footer>
 				</div>	
 				{/if}
