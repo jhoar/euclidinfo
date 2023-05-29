@@ -24,7 +24,7 @@
 
 <div class="container h-full mx-auto flex justify-center items-center">
 	<div class="imgbckspace-y-5 w-96">
-		<h1 class="h1 flex justify-center py-2">{header[$locale]}</h1>
+		<h1 class="h1 text-white flex justify-center py-2">{header[$locale]}</h1>
 		{#each data.appdata.trails as trail}
 			{#each trail.doc as doc} 
 				{#if doc.lang === $locale}
@@ -37,7 +37,7 @@
 						<div class='p-4 text-lg'>
 							{doc.subtitle}
 						</div></section>
-					<footer class="card-footer flex justify-center bg-black rounded-none rounded-b-lg pl-1 py-2"><a class="btn rounded-md variant-filled-success py-1" href={trail.url}>{start[$locale]}</a></footer>
+					<footer class="card-footer flex justify-center bg-black rounded-none rounded-b-lg pl-1 py-2"><a class="btn text-black rounded-md variant-filled-success py-1" href={trail.url}>{start[$locale]}</a></footer>
 				</div>	
 				{/if}
 			{/each}
