@@ -19,7 +19,7 @@
 		<!-- App Bar -->
 		<AppBar background="bg-transparent">
 			<svelte:fragment slot="lead">
-				<strong class="text-white text-2xl px-2 bg-red-600">Euclid</strong>
+				<a href='http://esa.int/euclid' target='_blank'><strong class="text-white text-2xl px-2 bg-red-600">Euclid</strong></a>
 			</svelte:fragment>
 			<svelte:fragment slot="trail">
 				<select class="bg-gray-50 border border-gray-300 text-gray-900 text-lg rounded-lg focus:ring-gray-300 focus:border-gray-500 block w-auto dark:bg-gray-700 dark:border-gray-600 dark:placeholder-gray-400 dark:text-white dark:focus:ring-gray-500 dark:focus:border-gray-700 appearance-none" bind:value={$locale}>
