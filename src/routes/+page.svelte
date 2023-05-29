@@ -37,7 +37,7 @@
 						<div class='p-4 text-lg'>
 							{doc.subtitle}
 						</div></section>
-					<footer class="card-footer flex justify-center bg-black rounded-none rounded-b-lg pl-1 py-2"><a class="btn text-black rounded-md variant-filled-success py-1" href={trail.url}>{start[$locale]}</a></footer>
+					<footer class="card-footer flex justify-center bg-black rounded-none rounded-b-lg pl-1 py-2"><a class="btn rounded-md variant-filled-success py-1 text-black" href={trail.url}>{start[$locale]}</a></footer>
 				</div>	
 				{/if}
 			{/each}
