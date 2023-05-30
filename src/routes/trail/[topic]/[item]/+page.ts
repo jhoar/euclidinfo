@@ -10,9 +10,9 @@ export const load = ( async ({ fetch, params }) => {
     const itemData = jsondata[params.item]['data'];
 
     for (var item of itemData) {
-        const htmlFile = `\\data\\trail\\${item['lang']}\\${params.item}.html`;
+        const htmlFile = `\\data\\trail\\${params.topic}\\${item['lang']}\\${params.item}.html`;
 //        const htmlresp = await fetch(htmlFile); // FIX LANG
-        const htmlresp = await fetch(`\\data\\trail\\en\\${params.item}.html`); 
+        const htmlresp = await fetch(`\\data\\trail\\${params.topic}\\en\\${params.item}.html`); 
         item['html'] = await htmlresp.text(); 
     }
 
