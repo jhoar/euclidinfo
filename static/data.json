@@ -29,7 +29,7 @@
                 }
             ],
             "url": "trail/discover/intro",
-            "image": "/discover.jpg"
+            "image": "/images/discover.jpg"
         },
         {
             "doc": [
@@ -60,7 +60,7 @@
                 }
             ],
             "url": "trail/bao/bao",
-            "image": "/bao.jpg"
+            "image": "/images/bao.jpg"
         }
-   ]
+    ]
 }
