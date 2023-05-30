@@ -1,7 +1,7 @@
 {
     "trails": [ 
         {
-            "doc": [
+            "data": [
                 {
                     "lang": "en", 
                     "title": "Discover Euclid",
@@ -32,7 +32,7 @@
             "image": "/images/discover.jpg"
         },
         {
-            "doc": [
+            "data": [
                 {
                     "lang": "en", 
                     "title": "Cosmic echoes (DEMO)",
