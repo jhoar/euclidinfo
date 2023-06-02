@@ -1,8 +1,6 @@
 <script lang='ts'>
-    import type { PageData } from './$types';
 	import { locale } from '../Store.js';
-
-    export let data: PageData;
+    export let data;
 
 	let header : { [lang: string]: string } = {
 		'en' : 'Learn about Euclid',

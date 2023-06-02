@@ -1,6 +1,4 @@
-import type { PageLoad } from './$types';
-
-export const load = ( async ({ fetch, params }) => {
+export async function load ( { fetch, params } ) {
 
     // Load from /static
     const jsonFile = `\\data\\trail\\${params.topic}.json`
@@ -15,4 +13,4 @@ export const load = ( async ({ fetch, params }) => {
     }
 
     return {json: itemData, prev: jsondata[params.item]['prev'], next: jsondata[params.item]['next']}
-}) satisfies PageLoad;
+}

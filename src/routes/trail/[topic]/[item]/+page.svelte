@@ -1,7 +1,6 @@
 <script lang="ts">
 	import { locale } from '../../../../Store.js';
-    import type { PageData } from './$types';
-    export let data: PageData;
+    export let data;
 </script>
 
 <div class="grid grid-cols-3 gap-4 p-2">
