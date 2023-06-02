@@ -7,7 +7,7 @@
 	import '../app.postcss';
 
 	import { AppShell, AppBar } from '@skeletonlabs/skeleton';
-	import { locale } from '../Store.js';
+	import { locale } from '$lib/Store';
 
 </script>
 

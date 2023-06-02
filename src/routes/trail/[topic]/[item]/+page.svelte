@@ -1,5 +1,5 @@
 <script lang="ts">
-	import { locale } from '../../../../Store.js';
+	import { locale } from '$lib/Store';
     export let data;
 </script>
 
