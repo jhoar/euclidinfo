@@ -36,18 +36,14 @@
         {/if}
     </div>
 </div>
-{#key data.pathname}
-	<div
-		in:fade={{ duration: 100, delay: 200 }}
-		out:fade={{ duration: 200 }}>
-        {#each data.json as doc} 
-            {#if doc.lang === $locale}
-                <h1 class="text-white text-2xl"><span class="bg-red-600">{(doc.title).toUpperCase()}</span></h1>
-                <div class="text-white prose px-3">{@html doc.html}</div>
-            {/if}
-        {/each}
-    </div>
-{/key}
+<div>
+{#each data.json as doc} 
+    {#if doc.lang === $locale}
+            <h1 class="text-white text-2xl"><span class="bg-red-600">{(doc.title).toUpperCase()}</span></h1>
+            <div class="text-white prose px-3">{@html doc.html}</div>
+        {/if}
+    {/each}
+</div>
 <style>
     :global(.prose p) {
         font-family: 'Notes';

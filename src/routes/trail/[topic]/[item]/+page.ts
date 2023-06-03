@@ -1,6 +1,4 @@
-export async function load ( { fetch, params, url } ) {
-
-    const { pathname } = url
+export async function load ( { fetch, params } ) {
 
     // Load from /static
     const jsonFile = `\\data\\trail\\${params.topic}.json`
@@ -14,5 +12,5 @@ export async function load ( { fetch, params, url } ) {
         item['html'] = await htmlresp.text(); 
     }
 
-    return {json: itemData, prev: jsondata[params.item]['prev'], next: jsondata[params.item]['next'], pathname}
+    return {json: itemData, prev: jsondata[params.item]['prev'], next: jsondata[params.item]['next']}
 }
