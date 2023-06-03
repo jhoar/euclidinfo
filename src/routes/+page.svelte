@@ -7,7 +7,8 @@
 		'fr' : 'En savoir plus sur Euclid',
 		'es' : 'Aprender sobre Euclid',
 		'de' : 'Lernen Sie über Euclid',
-		'it' : 'Conoscere Euclid'
+		'it' : 'Conoscere Euclid',
+		'nl' : 'Leer meer over Euclid'
 	};
 
 	let start : { [lang: string]: string } = {
@@ -15,7 +16,8 @@
 		'fr' : 'Commencer',
 		'es' : 'Empezar',
 		'de' : 'Starten',
-		'it' : 'Inizio'
+		'it' : 'Inizio',
+		'nl' : 'Start'
 	};
 
 </script>

@@ -26,6 +26,11 @@
                     "lang": "it", 
                     "title": "Scoprire Euclid",
                     "subtitle": "Scopri tutto sulla missione di Euclid"
+                },
+                {
+                    "lang": "nl", 
+                    "title": "Ontdek Euclid",
+                    "subtitle": "Leer alles over de Euclid-missie"
                 }
             ],
             "url": "trail/discover/intro",
@@ -57,6 +62,11 @@
                     "lang": "it", 
                     "title": "Echi cosmici (DEMO)",
                     "subtitle": "Le oscillazioni acustiche barioniche lasciano un'impronta sulla struttura dell'universo."
+                },
+                {
+                    "lang": "nl", 
+                    "title": "Kosmische echo's (DEMO)",
+                    "subtitle": "Baryonische akoestische oscillaties laten een vingerafdruk achter op de structuur van het heelal."
                 }
             ],
             "url": "trail/bao/bao",

@@ -21,6 +21,10 @@
                 {
                     "lang": "it",
                     "title": "Esplorare l'universo oscuro"
+                },
+                {
+                    "lang": "nl",
+                    "title": "Het donkere heelal verkennen"
                 }
         ],
         "prev": "",
@@ -48,6 +52,10 @@
                 {
                     "lang": "it",
                     "title": "Euclid in breve"
+                },
+                {
+                    "lang": "nl",
+                    "title": "Euclides in het kort"
                 }
         ],
         "prev": "intro",
@@ -75,6 +83,10 @@
                 {
                     "lang": "it",
                     "title": "Il viaggio di Euclid in L2"
+                },
+                {
+                    "lang": "nl",
+                    "title": "Euclids' reis naar L2"
                 }
         ],
         "prev": "summary",
@@ -101,7 +113,11 @@
                 },
                 {
                     "lang": "it",
-                    "title": "Cinque misteri che Euclide aiuterà a risolvere"
+                    "title": "Cinque misteri che Euclid aiuterà a risolvere"
+                },
+                {
+                    "lang": "nl",
+                    "title": "Vijf mysteries die Euclid helpt oplossen"
                 }
         ],
         "prev": "l2",
@@ -129,6 +145,10 @@
                 {
                     "lang": "it",
                     "title": "La navicella Euclid"
+                },
+                {
+                    "lang": "nl",
+                    "title": "Het ruimteschip Euclid"
                 }
         ],
         "prev": "mysteries",
@@ -155,7 +175,11 @@
                 },
                 {
                     "lang": "it",
-                    "title": "Strumenti di Euclide per il visibile e l'infrarosso"
+                    "title": "Strumenti di Euclid per il visibile e l'infrarosso"
+                },
+                {
+                    "lang": "nl",
+                    "title": "Euclids' zichtbare en infrarode instrumenten"
                 }
         ],
         "prev": "spacecraft",
@@ -183,6 +207,10 @@
                 {
                     "lang": "it",
                     "title": "L'Universo chiaro e scuro"
+                },
+                {
+                    "lang": "nl",
+                    "title": "Het lichte en donkere heelal"
                 }
         ],
         "prev": "instruments",
@@ -211,6 +239,10 @@
                 {
                     "lang": "it",
                     "title": "L'universo attraverso lo spazio e il tempo"
+                },
+                {
+                    "lang": "nl",
+                    "title": "Het heelal in ruimte en tijd"
                 }
         ],
         "prev": "darkuniverse",
@@ -238,6 +270,10 @@
                 {
                     "lang": "it",
                     "title": "Cosa misurerà Euclid: Lensing debole"
+                },
+                {
+                    "lang": "nl",
+                    "title": "Wat Euclid zal meten: Zwakke Lensing"
                 }
         ],
         "prev": "spacetime",
@@ -265,6 +301,10 @@
                 {
                     "lang": "it",
                     "title": "Cosa misurerà Euclid: le oscillazioni acustiche barioniche"
+                },
+                {
+                    "lang": "nl",
+                    "title": "Wat Euclid zal meten: Baryonische akoestische oscillaties"
                 }
         ],
         "prev": "wl",
@@ -292,6 +332,10 @@
                 {
                     "lang": "it",
                     "title": "Il tesoro di Euclid"
+                },
+                {
+                    "lang": "nl",
+                    "title": "De schat van Euclid"
                 }
         ],
         "prev": "bao",
@@ -319,6 +363,10 @@
                 {
                     "lang": "it",
                     "title": "Archivio scientifico dell'astronomia: Massimizzare la scienza delle nostre missioni"
+                },
+                {
+                    "lang": "nl",
+                    "title": "Astronomisch wetenschapsarchief: Maximale wetenschap uit onze missies"
                 }
         ],
         "prev": "catalogue",
@@ -346,6 +394,10 @@
                 {
                     "lang": "it",
                     "title": "Euclid: Una collaborazione globale guidata dall'ESA"
+                },
+                {
+                    "lang": "nl",
+                    "title": "Euclid: Een wereldwijde samenwerking onder leiding van ESA"
                 }
         ],
         "prev": "archive",
