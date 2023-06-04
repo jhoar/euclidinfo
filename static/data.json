@@ -40,36 +40,36 @@
             "data": [
                 {
                     "lang": "en", 
-                    "title": "Cosmic echoes (DEMO)",
-                    "subtitle": "Baryonic Acoustic Oscillations leave a fingerprint on the structure of the universe."
+                    "title": "Integrated Mission Timeline",
+                    "subtitle": "Everything this is, will or could happen."
                 },
                 {
                     "lang": "fr", 
-                    "title": "Échos cosmiques (DEMO)",
-                    "subtitle": "Les oscillations acoustiques baryoniques laissent une empreinte sur la structure de l'univers."
+                    "title": "Integrated Mission Timeline",
+                    "subtitle": "Everything this is, will or could happen."
                 },
                 {
                     "lang": "es", 
-                    "title": "Ecos cósmicos (DEMO)",
-                    "subtitle": "Las oscilaciones acústicas bariónicas dejan una huella en la estructura del universo."
+                    "title": "Integrated Mission Timeline",
+                    "subtitle": "Everything this is, will or could happen."
                 },
                 {
                     "lang": "de", 
-                    "title": "Kosmische Echos (DEMO)",
-                    "subtitle": "Baryonische akustische Oszillationen hinterlassen einen Fingerabdruck in der Struktur des Universums."
+                    "title": "Integrated Mission Timeline",
+                    "subtitle": "Everything this is, will or could happen."
                 },
                 {
                     "lang": "it", 
-                    "title": "Echi cosmici (DEMO)",
-                    "subtitle": "Le oscillazioni acustiche barioniche lasciano un'impronta sulla struttura dell'universo."
+                    "title": "Integrated Mission Timeline",
+                    "subtitle": "Everything this is, will or could happen."
                 },
                 {
                     "lang": "nl", 
-                    "title": "Kosmische echo's (DEMO)",
-                    "subtitle": "Baryonische akoestische oscillaties laten een vingerafdruk achter op de structuur van het heelal."
+                    "title": "Integrated Mission Timeline",
+                    "subtitle": "Everything this is, will or could happen."
                 }
             ],
-            "url": "trail/bao/bao",
+            "url": "mission",
             "image": "/images/bao.jpg"
         }
     ]
