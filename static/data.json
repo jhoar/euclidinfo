@@ -40,33 +40,33 @@
             "data": [
                 {
                     "lang": "en", 
-                    "title": "Integrated Mission Timeline",
-                    "subtitle": "Everything this is, will or could happen."
+                    "title": "Mission Events",
+                    "subtitle": "Overview of important mission events"
                 },
                 {
                     "lang": "fr", 
-                    "title": "Integrated Mission Timeline",
-                    "subtitle": "Everything this is, will or could happen."
+                    "title": "Événements de la mission",
+                    "subtitle": "Aperçu des événements importants de la mission"
                 },
                 {
                     "lang": "es", 
-                    "title": "Integrated Mission Timeline",
-                    "subtitle": "Everything this is, will or could happen."
+                    "title": "Misión Eventos",
+                    "subtitle": "Resumen de los acontecimientos importantes de la misión"
                 },
                 {
                     "lang": "de", 
-                    "title": "Integrated Mission Timeline",
-                    "subtitle": "Everything this is, will or could happen."
+                    "title": "Ereignisse der Mission",
+                    "subtitle": "Überblick über wichtige Missionsereignisse"
                 },
                 {
                     "lang": "it", 
-                    "title": "Integrated Mission Timeline",
-                    "subtitle": "Everything this is, will or could happen."
+                    "title": "Eventi della missione",
+                    "subtitle": "Panoramica degli eventi importanti della missione"
                 },
                 {
                     "lang": "nl", 
-                    "title": "Integrated Mission Timeline",
-                    "subtitle": "Everything this is, will or could happen."
+                    "title": "Missie Evenementen",
+                    "subtitle": "Overzicht van belangrijke missiegebeurtenissen"
                 }
             ],
             "url": "mission",

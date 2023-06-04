@@ -1,5 +1,4 @@
 <script lang="ts">
-	import { fade } from 'svelte/transition';
 	import { locale } from '$lib/Store';
     export let data;
 </script>
@@ -37,8 +36,8 @@
     </div>
 </div>
 <div>
-{#each data.json as doc} 
-    {#if doc.lang === $locale}
+    {#each data.json as doc} 
+        {#if doc.lang === $locale}
             <h1 class="text-white text-2xl"><span class="bg-red-600">{(doc.title).toUpperCase()}</span></h1>
             <div class="text-white prose px-3">{@html doc.html}</div>
         {/if}
