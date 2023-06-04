@@ -65,9 +65,9 @@
 	<div class="flex justify-center text-white">{kscZone}</div>
     <div class="flex justify-center text-white">{esocZone}</div>
     <div class="flex justify-center text-white">{utcZone}</div>
-	<div class="rounded-md variant-filled-success py-1 flex justify-center text-black">{kscDate.toLocaleString(DateTime.TIME_24_WITH_SECONDS)}</div>
-    <div class="rounded-md variant-filled-success py-1 flex justify-center text-black">{esocDate.toLocaleString(DateTime.TIME_24_WITH_SECONDS)}</div>
-    <div class="rounded-md variant-filled-success py-1 flex justify-center text-black">{utcDate.toLocaleString(DateTime.TIME_24_WITH_SECONDS)}</div>
+	<div class="rounded-md variant-filled-surface py-1 flex justify-center text-black">{kscDate.toLocaleString(DateTime.TIME_24_WITH_SECONDS)}</div>
+    <div class="rounded-md variant-filled-surface py-1 flex justify-center text-black">{esocDate.toLocaleString(DateTime.TIME_24_WITH_SECONDS)}</div>
+    <div class="rounded-md variant-filled-surface py-1 flex justify-center text-black">{utcDate.toLocaleString(DateTime.TIME_24_WITH_SECONDS)}</div>
 </div>
 <div class="pl-5 pt-2 flex justify-left text-white">{header[$locale]}</div> 
 <div class="pl-8 pt-2 flex justify-left text-white">
