@@ -12,7 +12,7 @@
                 </svg>
             </a>
         {:else}
-            <span class="rounded-md text-gray-500 bg-gray-500 py-1 flex justify-left">-</span>
+            <span class="rounded-md text-gray-500 bg-transparent py-1 flex justify-left">&nbsp;</span>
         {/if}
     </div>
     <div>
@@ -31,7 +31,7 @@
                 </svg>
             </a>
         {:else}
-            <span class="rounded-md text-gray-500 bg-gray-500 py-1 flex justify-left">-</span>
+            <span class="rounded-md text-gray-500 bg-transparent py-1 flex justify-right">&nbsp;</span>
         {/if}
     </div>
 </div>
