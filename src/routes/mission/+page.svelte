@@ -1,5 +1,4 @@
 <script lang="ts">
-	import Clock from '$lib/Clock.svelte';
 	import Navigation from '$lib/Navigation.svelte';
 	import { locale } from '$lib/Store';
 
@@ -16,8 +15,6 @@
 
 <Navigation left={""} right={""}/>
 
-<div class='text-white text-2xl'><Clock /></div>
-
 <h1 class="pt-8 text-white text-2xl"><span class="px-2 bg-red-600">{header[$locale].toUpperCase()}</span></h1>
 
 <div class="pt-4"><span class="text-white text-1xl bg-red-600 px-2">LAUNCH</span></div>
@@ -26,7 +23,7 @@
 <div class="pt-4"><span class="text-white text-1xl bg-red-600 px-2">LAUNCH AND EARLY OPERATIONS PHASE</span></div>
 <div class="pt-2 px-2">At launch, the mission enters the Launch and Early Operations Phase (LEOP). After approximately 40 minutes, the spacecraft separates from the launcher, and the spacecraft performs an automated sequence to put the spacecraft in a safe attitude and ready to communicate with the ESA New Norcia ground station. Once the ground station acquires the signal from the spacecraft, the flight control team at the mission control centre checks the spacecraft health after the launch and switches on core spacecraft systems; communication, orbital control and storage functions. A day after launch, the flight dynamics team calculates the trajectory of the spacecraft from ground station data and calculates the first manoeuvre to correct the spacecraft's bearing on its way on to L2.</div>
 
-<div class="pt-4"><span class="text-white text-1xl bg-red-600 px-2">DECONTAMINATION AND COOLING DOWN</span></div>
+<div class="pt-4"><span class="text-white text-1xl bg-red-600 px-2">DECONTAMINATION AND COOLDOWN</span></div>
 <div class="pt-2 px-2">In order to preserve Euclid's immaculate telescope and payload, the spacecraft and instruments have been built and launched in extremely clean conditions. Nonetheless some residual contaminants remain on the spacecraft, sometimes embedded in the spacecraft material. The spacecraft will also take water vapour from the Earth's atmosphere with it into space. The freezing vacuum of space naturally causes the contaminants to emerge into the interior spaces ('outgassing'). This combination of contaminants and water vapour will naturally condense onto the coldest surface, and spacecraft is kept warm for several data and left to cool under carefully managed coniditions to ensure the best optical performance of the mission. The NISP instrument is partially activated during the LEOP phase to control the temperature with its enclosure.</div>
 
 <div class="pt-4"><span class="text-white text-1xl bg-red-600 px-2">SPACECRAFT COMMISSIONING PHASE</span></div>

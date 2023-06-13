@@ -1,5 +1,6 @@
 <script lang='ts'>
-	import { locale } from '$lib/Store';
+	import Clock from '$lib/Clock.svelte';
+import { locale } from '$lib/Store';
     export let data;
 
 	let header : { [lang: string]: string } = {
@@ -22,7 +23,9 @@
 
 </script>
 
-<div class="container h-full mx-auto flex justify-center items-center">
+<Clock />
+
+<div class="container pt-16 mx-auto flex justify-center items-center">
 	<div class="imgbckspace-y-5 w-96">
 		<h1 class="h1 text-white flex justify-center py-2">{header[$locale]}</h1>
 		{#each data.appdata.trails as trail}
