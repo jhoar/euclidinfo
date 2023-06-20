@@ -17,11 +17,8 @@
 
 <h1 class="pt-8 text-white text-2xl"><span class="px-2 bg-red-600">{header[$locale].toUpperCase()}</span></h1>
 
-<div class="pt-4"><span class="text-white text-1xl bg-red-600 px-2">LAUNCH</span></div>
-<div class="pt-2 px-2">The launch of Euclid is hypothetically scheduled for the 1st of July, 2023 from the Cape Canaveral Space Force Station in Florida, USA.</div>
-
 <div class="pt-4"><span class="text-white text-1xl bg-red-600 px-2">LAUNCH AND EARLY OPERATIONS PHASE</span></div>
-<div class="pt-2 px-2">At launch, the mission enters the Launch and Early Operations Phase (LEOP). After approximately 40 minutes, the spacecraft separates from the launcher, and the spacecraft performs an automated sequence to put the spacecraft in a safe attitude and ready to communicate with the ESA New Norcia ground station. Once the ground station acquires the signal from the spacecraft, the flight control team at the mission control centre checks the spacecraft's health after the launch and switches on core spacecraft systems; communication, orbital control and storage functions. A day after launch, the flight dynamics team calculates the trajectory of the spacecraft from ground station data and calculates the first manoeuvre to correct the spacecraft's bearing on its way onto L2.</div>
+<div class="pt-2 px-2">The launch of Euclid is scheduled for the 1st of July, 2023 from the Cape Canaveral Space Force Station in Florida, USA. At launch, the mission enters the Launch and Early Operations Phase (LEOP). After approximately 40 minutes, the spacecraft separates from the launcher, and the spacecraft performs an automated sequence to put the spacecraft in a safe attitude and ready to communicate with the ESA New Norcia ground station. Once the ground station acquires the signal from the spacecraft, the flight control team at the mission control centre checks the spacecraft's health after the launch and switches on core spacecraft systems; communication, orbital control and storage functions. A day after launch, the flight dynamics team calculates the trajectory of the spacecraft from ground station data and calculates the first manoeuvre to correct the spacecraft's bearing on its way onto L2.</div>
 
 <div class="pt-4"><span class="text-white text-1xl bg-red-600 px-2">DECONTAMINATION AND COOLDOWN</span></div>
 <div class="pt-2 px-2">To preserve Euclid's immaculate telescope and payload, the spacecraft and instruments have been built and launched in extremely clean conditions. Nonetheless, some residual contaminants remain on the spacecraft, sometimes embedded in the spacecraft material. The spacecraft will also take water vapour from the Earth's atmosphere with it into space. The freezing vacuum of space naturally causes the contaminants to emerge into the interior spaces ('out-gassing'). This combination of contaminants and water vapour will naturally condense onto the coldest surface, and the spacecraft is kept warm for several days and left to cool under carefully managed conditions to ensure the optical surfaces remain at their highest possible performance. The NISP instrument is partially activated during the LEOP phase to control the temperature with its enclosure.</div>
@@ -43,8 +40,7 @@
 <div class="pt-2 px-2">Two great circles on the sky are not suitable for the Euclid survey. The first is the Galactic Plane, which obscures the distant galaxies we wish to observe. The second is the Ecliptic Plane, where the planets and minor bodies orbit around the Sun. the ecliptic plane contains a lot of dust which contaminates the measurements of the galaxies. Both the Galactic and Ecliptic Planes are excluded from the survey, leaving approximately one-third of the sky available for the science of the mission.</div>
 
 <div class="pt-4"><span class="text-white text-1xl bg-red-600 px-2">EUCLID'S DATA RELEASES</span></div>
-<div class="pt-2 px-2"></div>
-
+<div class="pt-2 px-2">The Euclid mission will produce three major data releases during its nominal lifetime. Each release contains data products derived from an increasingly large sky area from the Euclid Survey. Smaller releases of data will be made with smaller or specialised subsets of data products. These data releases will be accompanied by the major scientitific results from the mission reflecting the quest to understand the mysteries of dark energy and dark manner.</div>
 
 <style>
     :global(.prose p) {
