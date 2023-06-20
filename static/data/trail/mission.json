@@ -1,33 +1,218 @@
 {
-    "mission": {
+    "leop": {
         "data":  
             [
                 {
                     "lang": "en",
-                    "title": "Mission Events"
+                    "title": "Launch And Early Operations Phase"
                 }, 
                 {
                     "lang": "fr",
-                    "title": "Événements de la mission"
+                    "title": "PHASE DE LANCEMENT ET D'OPÉRATIONS PRÉLIMINAIRES"
                 },
                 {
                     "lang": "es",
-                    "title": "Misión Eventos"
+                    "title": "FASE DE LANZAMIENTO Y PRIMERAS OPERACIONES"
                 }, 
                 {
                     "lang": "de",
-                    "title": "Ereignisse der Mission"
+                    "title": "START UND FRÜHE BETRIEBSPHASE"
                 },
                 {
                     "lang": "it",
-                    "title": "Eventi della missione"
+                    "title": "FASE DI LANCIO E PRIME OPERAZIONI"
                 },
                 {
                     "lang": "nl",
-                    "title": "Missie Evenementen"
+                    "title": "LANCERING EN VROEGE OPERATIONELE FASE"
                 }
         ],
         "prev": "",
+        "next": "decon"
+    },
+    "decon": {
+        "data":  
+            [
+                {
+                    "lang": "en",
+                    "title": "Decontamination And Cooldown"
+                }, 
+                {
+                    "lang": "fr",
+                    "title": "DÉCONTAMINATION ET REFROIDISSEMENT"
+                },
+                {
+                    "lang": "es",
+                    "title": "DESCONTAMINACIÓN Y ENFRIAMIENTO"
+                }, 
+                {
+                    "lang": "de",
+                    "title": "DEKONTAMINATION UND ABKÜHLUNG"
+                },
+                {
+                    "lang": "it",
+                    "title": "DECONTAMINAZIONE E RAFFREDDAMENTO"
+                },
+                {
+                    "lang": "nl",
+                    "title": "ONTSMETTING EN AFKOELING"
+                }
+        ],
+        "prev": "leop",
+        "next": "comm"
+    },
+    "comm": {
+        "data":  
+            [
+                {
+                    "lang": "en",
+                    "title": "Spacecraft Commissioning Phase"
+                }, 
+                {
+                    "lang": "fr",
+                    "title": "PHASE DE MISE EN SERVICE DE L'ENGIN SPATIAL"
+                },
+                {
+                    "lang": "es",
+                    "title": "FASE DE PUESTA EN SERVICIO DE LA NAVE ESPACIAL"
+                }, 
+                {
+                    "lang": "de",
+                    "title": "PHASE DER INBETRIEBNAHME DER RAUMSONDE"
+                },
+                {
+                    "lang": "it",
+                    "title": "FASE DI MESSA IN SERVIZIO DEL VEICOLO SPAZIALE"
+                },
+                {
+                    "lang": "nl",
+                    "title": "INBEDRIJFSTELLINGSFASE VAN HET RUIMTESCHIP"
+                }
+        ],
+        "prev": "decon",
+        "next": "pv"
+    },
+    "pv": {
+        "data":  
+            [
+                {
+                    "lang": "en",
+                    "title": "Performance Verification Phase"
+                }, 
+                {
+                    "lang": "fr",
+                    "title": "PHASE DE VÉRIFICATION DES PERFORMANCES"
+                },
+                {
+                    "lang": "es",
+                    "title": "FASE DE VERIFICACIÓN DEL RENDIMIENTO"
+                }, 
+                {
+                    "lang": "de",
+                    "title": "PHASE DER LEISTUNGSÜBERPRÜFUNG"
+                },
+                {
+                    "lang": "it",
+                    "title": "FASE DI VERIFICA DELLE PRESTAZIONI"
+                },
+                {
+                    "lang": "nl",
+                    "title": "FASE VAN PRESTATIEVERIFICATIE"
+                }
+        ],
+        "prev": "comm",
+        "next": "esop"
+    },
+    "esop": {
+        "data":  
+            [
+                {
+                    "lang": "en",
+                    "title": "Early Survey Phase"
+                }, 
+                {
+                    "lang": "fr",
+                    "title": "PREMIÈRE PHASE D'ÉTUDE"
+                },
+                {
+                    "lang": "es",
+                    "title": "FASE INICIAL DEL SONDEO"
+                }, 
+                {
+                    "lang": "de",
+                    "title": "FRÜHE DURCHMUSTERUNGSPHASE"
+                },
+                {
+                    "lang": "it",
+                    "title": "FASE INIZIALE DEL RILEVAMENTO"
+                },
+                {
+                    "lang": "nl",
+                    "title": "VROEGE ONDERZOEKSFASE"
+                }
+        ],
+        "prev": "pv",
+        "next": "routine"
+    },
+    "routine": {
+        "data":  
+            [
+                {
+                    "lang": "en",
+                    "title": "Routine Survey Phase"
+                }, 
+                {
+                    "lang": "fr",
+                    "title": "PHASE D'ÉTUDE DE ROUTINE"
+                },
+                {
+                    "lang": "es",
+                    "title": "FASE DE RECONOCIMIENTO RUTINARIO"
+                }, 
+                {
+                    "lang": "de",
+                    "title": "ROUTINE-UNTERSUCHUNGSPHASE"
+                },
+                {
+                    "lang": "it",
+                    "title": "FASE DI RILEVAMENTO DI ROUTINE"
+                },
+                {
+                    "lang": "nl",
+                    "title": "ROUTINE SURVEY-FASE"
+                }
+        ],
+        "prev": "esop",
+        "next": "dr"
+    },
+    "dr": {
+        "data":  
+            [
+                {
+                    "lang": "en",
+                    "title": "Euclid's Data Releases"
+                }, 
+                {
+                    "lang": "fr",
+                    "title": "LES DONNÉES D'EUCLID"
+                },
+                {
+                    "lang": "es",
+                    "title": "PUBLICACIÓN DE DATOS DE EUCLID"
+                }, 
+                {
+                    "lang": "de",
+                    "title": "EUCLID-DATENVERÖFFENTLICHUNGEN"
+                },
+                {
+                    "lang": "it",
+                    "title": "I DATI RILASCIATI DA EUCLID"
+                },
+                {
+                    "lang": "nl",
+                    "title": "EUCLIDES GEGEVENS"
+                }
+        ],
+        "prev": "routine",
         "next": ""
-    }
-}
+    }}
