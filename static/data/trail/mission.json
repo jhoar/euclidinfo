@@ -1,0 +1,33 @@
+{
+    "mission": {
+        "data":  
+            [
+                {
+                    "lang": "en",
+                    "title": "Mission Events"
+                }, 
+                {
+                    "lang": "fr",
+                    "title": "Événements de la mission"
+                },
+                {
+                    "lang": "es",
+                    "title": "Misión Eventos"
+                }, 
+                {
+                    "lang": "de",
+                    "title": "Ereignisse der Mission"
+                },
+                {
+                    "lang": "it",
+                    "title": "Eventi della missione"
+                },
+                {
+                    "lang": "nl",
+                    "title": "Missie Evenementen"
+                }
+        ],
+        "prev": "",
+        "next": ""
+    }
+}

@@ -1,22 +1,3 @@
-<script lang="ts">
-	import Navigation from '$lib/Navigation.svelte';
-	import { locale } from '$lib/Store';
-
-    let header : { [lang: string]: string } = {
-        'en' : 'Mission timeline',
-        'fr' : 'Événements de la mission',
-        'es' : 'Misión Eventos',
-        'de' : 'Ereignisse der Mission',
-        'it' : 'Eventi della missione',
-        'nl' : 'Missie Evenementen'
-    };
-
-</script>
-
-<Navigation left={""} right={""}/>
-
-<h1 class="pt-8 text-white text-2xl"><span class="px-2 bg-red-600">{header[$locale].toUpperCase()}</span></h1>
-
 <div class="pt-4"><span class="text-white text-1xl bg-red-600 px-2">LAUNCH AND EARLY OPERATIONS PHASE</span></div>
 <div class="pt-2 px-2">The launch of Euclid is scheduled for the 1st of July, 2023 from the Cape Canaveral Space Force Station in Florida, USA. At launch, the mission enters the Launch and Early Operations Phase (LEOP). After approximately 40 minutes, the spacecraft separates from the launcher, and the spacecraft performs an automated sequence to put the spacecraft in a safe attitude and ready to communicate with the ESA New Norcia ground station. Once the ground station acquires the signal from the spacecraft, the flight control team at the mission control centre checks the spacecraft's health after the launch and switches on core spacecraft systems; communication, orbital control and storage functions. A day after launch, the flight dynamics team calculates the trajectory of the spacecraft from ground station data and calculates the first manoeuvre to correct the spacecraft's bearing on its way onto L2.</div>
 
@@ -41,13 +22,3 @@
 
 <div class="pt-4"><span class="text-white text-1xl bg-red-600 px-2">EUCLID'S DATA RELEASES</span></div>
 <div class="pt-2 px-2">The Euclid mission will produce three major data releases during its nominal lifetime. Each release contains data products derived from an increasingly large sky area from the Euclid Survey. Smaller releases of data will be made with smaller or specialised subsets of data products. These data releases will be accompanied by the major scientitific results from the mission reflecting the quest to understand the mysteries of dark energy and dark manner.</div>
-
-<style>
-    :global(.prose p) {
-        font-family: 'Notes';
-    }
-
-    h1 {
-        font-family: "Notes Bold";
-    }
-</style>
