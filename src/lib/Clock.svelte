@@ -36,7 +36,7 @@
 	let esocZoneId: string = "Europe/Paris";
 	let esocZone: string = "ESOC";
 
-    export let launch: DateTime = DateTime.fromISO("2023-07-01T15:12:00Z");
+    export let launch: DateTime = DateTime.fromISO("2023-07-01T15:11:00Z");
 	launch = launch.setZone(utcZone);
 
 	export let utcDate = DateTime.utc();
