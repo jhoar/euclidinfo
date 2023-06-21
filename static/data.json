@@ -40,33 +40,33 @@
             "data": [
                 {
                     "lang": "en", 
-                    "title": "Mission Events",
-                    "subtitle": "Overview of important mission events"
+                    "title": "Mission Phases",
+                    "subtitle": "Overview of the Euclid mission phases"
                 },
                 {
                     "lang": "fr", 
-                    "title": "Événements de la mission",
-                    "subtitle": "Aperçu des événements importants de la mission"
+                    "title": "Phases de la mission",
+                    "subtitle": "Aperçu des phases de la mission Euclid"
                 },
                 {
                     "lang": "es", 
-                    "title": "Misión Eventos",
-                    "subtitle": "Resumen de los acontecimientos importantes de la misión"
+                    "title": "Fases de la misión",
+                    "subtitle": "Resumen de las fases de la misión Euclid"
                 },
                 {
                     "lang": "de", 
-                    "title": "Ereignisse der Mission",
-                    "subtitle": "Überblick über wichtige Missionsereignisse"
+                    "title": "Phasen der Mission",
+                    "subtitle": "Überblick über die Phasen der Euclid-Mission"
                 },
                 {
                     "lang": "it", 
-                    "title": "Eventi della missione",
-                    "subtitle": "Panoramica degli eventi importanti della missione"
+                    "title": "Fasi della missione",
+                    "subtitle": "Panoramica delle fasi della missione Euclid"
                 },
                 {
                     "lang": "nl", 
-                    "title": "Missie Evenementen",
-                    "subtitle": "Overzicht van belangrijke missiegebeurtenissen"
+                    "title": "Missie fasen",
+                    "subtitle": "Overzicht van de fasen van de Euclid-missie"
                 }
             ],
             "url": "trail/mission/leop",
