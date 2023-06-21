@@ -40,42 +40,6 @@
             "data": [
                 {
                     "lang": "en", 
-                    "title": "Mission Phases",
-                    "subtitle": "Overview of the Euclid mission phases"
-                },
-                {
-                    "lang": "fr", 
-                    "title": "Phases de la mission",
-                    "subtitle": "Aperçu des phases de la mission Euclid"
-                },
-                {
-                    "lang": "es", 
-                    "title": "Fases de la misión",
-                    "subtitle": "Resumen de las fases de la misión Euclid"
-                },
-                {
-                    "lang": "de", 
-                    "title": "Phasen der Mission",
-                    "subtitle": "Überblick über die Phasen der Euclid-Mission"
-                },
-                {
-                    "lang": "it", 
-                    "title": "Fasi della missione",
-                    "subtitle": "Panoramica delle fasi della missione Euclid"
-                },
-                {
-                    "lang": "nl", 
-                    "title": "Missie fasen",
-                    "subtitle": "Overzicht van de fasen van de Euclid-missie"
-                }
-            ],
-            "url": "trail/mission/leop",
-            "image": "/images/discover.jpg"
-        },
-        {
-            "data": [
-                {
-                    "lang": "en", 
                     "title": "Euclid Science 101",
                     "subtitle": "A whistle-stop tour of the mission science"
                 },
@@ -107,6 +71,42 @@
             ],
             "url": "trail/science101/intro",
             "image": "/images/bao.jpg"
+        },
+        {
+            "data": [
+                {
+                    "lang": "en", 
+                    "title": "Mission Phases",
+                    "subtitle": "Overview of the Euclid mission phases"
+                },
+                {
+                    "lang": "fr", 
+                    "title": "Phases de la mission",
+                    "subtitle": "Aperçu des phases de la mission Euclid"
+                },
+                {
+                    "lang": "es", 
+                    "title": "Fases de la misión",
+                    "subtitle": "Resumen de las fases de la misión Euclid"
+                },
+                {
+                    "lang": "de", 
+                    "title": "Phasen der Mission",
+                    "subtitle": "Überblick über die Phasen der Euclid-Mission"
+                },
+                {
+                    "lang": "it", 
+                    "title": "Fasi della missione",
+                    "subtitle": "Panoramica delle fasi della missione Euclid"
+                },
+                {
+                    "lang": "nl", 
+                    "title": "Missie fasen",
+                    "subtitle": "Overzicht van de fasen van de Euclid-missie"
+                }
+            ],
+            "url": "trail/mission/leop",
+            "image": "/images/discover.jpg"
         }
     ]
 }
