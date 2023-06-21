@@ -8,23 +8,23 @@
                 }, 
                 {
                     "lang": "fr",
-                    "title": "PHASE DE LANCEMENT ET D'OPÉRATIONS PRÉLIMINAIRES"
+                    "title": "Phase De Lancement Et D'opérations Préliminaires"
                 },
                 {
                     "lang": "es",
-                    "title": "FASE DE LANZAMIENTO Y PRIMERAS OPERACIONES"
+                    "title": "Fase De Lanzamiento Y Primeras Operaciones"
                 }, 
                 {
                     "lang": "de",
-                    "title": "START UND FRÜHE BETRIEBSPHASE"
+                    "title": "Start Und Frühe Betriebsphase"
                 },
                 {
                     "lang": "it",
-                    "title": "FASE DI LANCIO E PRIME OPERAZIONI"
+                    "title": "Fase Di Lancio E Prime Operazioni"
                 },
                 {
                     "lang": "nl",
-                    "title": "LANCERING EN VROEGE OPERATIONELE FASE"
+                    "title": "Lancering En Vroege Operationele Fase"
                 }
         ],
         "prev": "",
@@ -39,23 +39,23 @@
                 }, 
                 {
                     "lang": "fr",
-                    "title": "DÉCONTAMINATION ET REFROIDISSEMENT"
+                    "title": "Décontamination Et Refroidissement"
                 },
                 {
                     "lang": "es",
-                    "title": "DESCONTAMINACIÓN Y ENFRIAMIENTO"
+                    "title": "Descontaminación Y Enfriamiento"
                 }, 
                 {
                     "lang": "de",
-                    "title": "DEKONTAMINATION UND ABKÜHLUNG"
+                    "title": "Dekontamination Und Abkühlung"
                 },
                 {
                     "lang": "it",
-                    "title": "DECONTAMINAZIONE E RAFFREDDAMENTO"
+                    "title": "Decontaminazione E Raffreddamento"
                 },
                 {
                     "lang": "nl",
-                    "title": "ONTSMETTING EN AFKOELING"
+                    "title": "Ontsmetting En Afkoeling"
                 }
         ],
         "prev": "leop",
@@ -70,23 +70,23 @@
                 }, 
                 {
                     "lang": "fr",
-                    "title": "PHASE DE MISE EN SERVICE DE L'ENGIN SPATIAL"
+                    "title": "Phase De Mise En Service De L'engin Spatial"
                 },
                 {
                     "lang": "es",
-                    "title": "FASE DE PUESTA EN SERVICIO DE LA NAVE ESPACIAL"
+                    "title": "Fase De Puesta En Servicio De La Nave Espacial"
                 }, 
                 {
                     "lang": "de",
-                    "title": "PHASE DER INBETRIEBNAHME DER RAUMSONDE"
+                    "title": "Phase Der Inbetriebnahme Der Raumsonde"
                 },
                 {
                     "lang": "it",
-                    "title": "FASE DI MESSA IN SERVIZIO DEL VEICOLO SPAZIALE"
+                    "title": "Fase Di Messa In Servizio Del Veicolo Spaziale"
                 },
                 {
                     "lang": "nl",
-                    "title": "INBEDRIJFSTELLINGSFASE VAN HET RUIMTESCHIP"
+                    "title": "Inbedrijfstellingsfase Van Het Ruimteschip"
                 }
         ],
         "prev": "decon",
@@ -101,23 +101,23 @@
                 }, 
                 {
                     "lang": "fr",
-                    "title": "PHASE DE VÉRIFICATION DES PERFORMANCES"
+                    "title": "Phase De Vérification Des Performances"
                 },
                 {
                     "lang": "es",
-                    "title": "FASE DE VERIFICACIÓN DEL RENDIMIENTO"
+                    "title": "Fase De Verificación Del Rendimiento"
                 }, 
                 {
                     "lang": "de",
-                    "title": "PHASE DER LEISTUNGSÜBERPRÜFUNG"
+                    "title": "Phase Der Leistungsüberprüfung"
                 },
                 {
                     "lang": "it",
-                    "title": "FASE DI VERIFICA DELLE PRESTAZIONI"
+                    "title": "Fase Di Verifica Delle Prestazioni"
                 },
                 {
                     "lang": "nl",
-                    "title": "FASE VAN PRESTATIEVERIFICATIE"
+                    "title": "Fase Van Prestatieverificatie"
                 }
         ],
         "prev": "comm",
@@ -132,23 +132,23 @@
                 }, 
                 {
                     "lang": "fr",
-                    "title": "PREMIÈRE PHASE D'ÉTUDE"
+                    "title": "Première Phase D'étude"
                 },
                 {
                     "lang": "es",
-                    "title": "FASE INICIAL DEL SONDEO"
+                    "title": "Fase Inicial Del Sondeo"
                 }, 
                 {
                     "lang": "de",
-                    "title": "FRÜHE DURCHMUSTERUNGSPHASE"
+                    "title": "Frühe Durchmusterungsphase"
                 },
                 {
                     "lang": "it",
-                    "title": "FASE INIZIALE DEL RILEVAMENTO"
+                    "title": "Fase Iniziale Del Rilevamento"
                 },
                 {
                     "lang": "nl",
-                    "title": "VROEGE ONDERZOEKSFASE"
+                    "title": "Vroege Onderzoeksfase"
                 }
         ],
         "prev": "pv",
@@ -163,23 +163,23 @@
                 }, 
                 {
                     "lang": "fr",
-                    "title": "PHASE D'ÉTUDE DE ROUTINE"
+                    "title": "Phase D'étude De Routine"
                 },
                 {
                     "lang": "es",
-                    "title": "FASE DE RECONOCIMIENTO RUTINARIO"
+                    "title": "Fase De Reconocimiento Rutinario"
                 }, 
                 {
                     "lang": "de",
-                    "title": "ROUTINE-UNTERSUCHUNGSPHASE"
+                    "title": "Routine-Untersuchungsphase"
                 },
                 {
                     "lang": "it",
-                    "title": "FASE DI RILEVAMENTO DI ROUTINE"
+                    "title": "Fase Di Rilevamento Di Routine"
                 },
                 {
                     "lang": "nl",
-                    "title": "ROUTINE SURVEY-FASE"
+                    "title": "Routine Survey-Fase"
                 }
         ],
         "prev": "esop",
@@ -194,23 +194,23 @@
                 }, 
                 {
                     "lang": "fr",
-                    "title": "LES DONNÉES D'EUCLID"
+                    "title": "Les Données D'euclid"
                 },
                 {
                     "lang": "es",
-                    "title": "PUBLICACIÓN DE DATOS DE EUCLID"
+                    "title": "Publicación De Datos De Euclid"
                 }, 
                 {
                     "lang": "de",
-                    "title": "EUCLID-DATENVERÖFFENTLICHUNGEN"
+                    "title": "Euclid-Datenveröffentlichungen"
                 },
                 {
                     "lang": "it",
-                    "title": "I DATI RILASCIATI DA EUCLID"
+                    "title": "I Dati Rilasciati Da Euclid"
                 },
                 {
                     "lang": "nl",
-                    "title": "EUCLIDES GEGEVENS"
+                    "title": "Euclides Gegevens"
                 }
         ],
         "prev": "routine",
