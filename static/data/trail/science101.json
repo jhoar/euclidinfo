@@ -1,0 +1,218 @@
+{
+    "intro": {
+        "data":  
+            [
+                {
+                    "lang": "en",
+                    "title": "Introduction"
+                }, 
+                {
+                    "lang": "fr",
+                    "title": "Phase De Lancement Et D'opérations Préliminaires"
+                },
+                {
+                    "lang": "es",
+                    "title": "Fase De Lanzamiento Y Primeras Operaciones"
+                }, 
+                {
+                    "lang": "de",
+                    "title": "Start Und Frühe Betriebsphase"
+                },
+                {
+                    "lang": "it",
+                    "title": "Fase Di Lancio E Prime Operazioni"
+                },
+                {
+                    "lang": "nl",
+                    "title": "Lancering En Vroege Operationele Fase"
+                }
+        ],
+        "prev": "",
+        "next": "science"
+    },
+    "science": {
+        "data":  
+            [
+                {
+                    "lang": "en",
+                    "title": "Mission science"
+                }, 
+                {
+                    "lang": "fr",
+                    "title": "Décontamination Et Refroidissement"
+                },
+                {
+                    "lang": "es",
+                    "title": "Descontaminación Y Enfriamiento"
+                }, 
+                {
+                    "lang": "de",
+                    "title": "Dekontamination Und Abkühlung"
+                },
+                {
+                    "lang": "it",
+                    "title": "Decontaminazione E Raffreddamento"
+                },
+                {
+                    "lang": "nl",
+                    "title": "Ontsmetting En Afkoeling"
+                }
+        ],
+        "prev": "intro",
+        "next": "darkmatter"
+    },
+    "darkmatter": {
+        "data":  
+            [
+                {
+                    "lang": "en",
+                    "title": "What is dark matter?"
+                }, 
+                {
+                    "lang": "fr",
+                    "title": "Phase De Mise En Service De L'engin Spatial"
+                },
+                {
+                    "lang": "es",
+                    "title": "Fase De Puesta En Servicio De La Nave Espacial"
+                }, 
+                {
+                    "lang": "de",
+                    "title": "Phase Der Inbetriebnahme Der Raumsonde"
+                },
+                {
+                    "lang": "it",
+                    "title": "Fase Di Messa In Servizio Del Veicolo Spaziale"
+                },
+                {
+                    "lang": "nl",
+                    "title": "Inbedrijfstellingsfase Van Het Ruimteschip"
+                }
+        ],
+        "prev": "science",
+        "next": "darkenergy"
+    },
+    "darkenergy": {
+        "data":  
+            [
+                {
+                    "lang": "en",
+                    "title": "What is dark energy?"
+                }, 
+                {
+                    "lang": "fr",
+                    "title": "Phase De Vérification Des Performances"
+                },
+                {
+                    "lang": "es",
+                    "title": "Fase De Verificación Del Rendimiento"
+                }, 
+                {
+                    "lang": "de",
+                    "title": "Phase Der Leistungsüberprüfung"
+                },
+                {
+                    "lang": "it",
+                    "title": "Fase Di Verifica Delle Prestazioni"
+                },
+                {
+                    "lang": "nl",
+                    "title": "Fase Van Prestatieverificatie"
+                }
+        ],
+        "prev": "darkmatter",
+        "next": "lensing"
+    },
+    "lensing": {
+        "data":  
+            [
+                {
+                    "lang": "en",
+                    "title": "What is gravitational lensing?"
+                }, 
+                {
+                    "lang": "fr",
+                    "title": "Première Phase D'étude"
+                },
+                {
+                    "lang": "es",
+                    "title": "Fase Inicial Del Sondeo"
+                }, 
+                {
+                    "lang": "de",
+                    "title": "Frühe Durchmusterungsphase"
+                },
+                {
+                    "lang": "it",
+                    "title": "Fase Iniziale Del Rilevamento"
+                },
+                {
+                    "lang": "nl",
+                    "title": "Vroege Onderzoeksfase"
+                }
+        ],
+        "prev": "darkenergy",
+        "next": "bao"
+    },
+    "bao": {
+        "data":  
+            [
+                {
+                    "lang": "en",
+                    "title": "What are Baryonic Acoustic Oscillations?"
+                }, 
+                {
+                    "lang": "fr",
+                    "title": "Phase D'étude De Routine"
+                },
+                {
+                    "lang": "es",
+                    "title": "Fase De Reconocimiento Rutinario"
+                }, 
+                {
+                    "lang": "de",
+                    "title": "Routine-Untersuchungsphase"
+                },
+                {
+                    "lang": "it",
+                    "title": "Fase Di Rilevamento Di Routine"
+                },
+                {
+                    "lang": "nl",
+                    "title": "Routine Survey-Fase"
+                }
+        ],
+        "prev": "lensing",
+        "next": "legacy"
+    },
+    "legacy": {
+        "data":  
+            [
+                {
+                    "lang": "en",
+                    "title": "Legacy Science Beyond Cosmology"
+                }, 
+                {
+                    "lang": "fr",
+                    "title": "Les Données D'euclid"
+                },
+                {
+                    "lang": "es",
+                    "title": "Publicación De Datos De Euclid"
+                }, 
+                {
+                    "lang": "de",
+                    "title": "Euclid-Datenveröffentlichungen"
+                },
+                {
+                    "lang": "it",
+                    "title": "I Dati Rilasciati Da Euclid"
+                },
+                {
+                    "lang": "nl",
+                    "title": "Euclides Gegevens"
+                }
+        ],
+        "prev": "bao",
+        "next": ""
+    }}

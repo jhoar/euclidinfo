@@ -71,6 +71,42 @@
             ],
             "url": "trail/mission/leop",
             "image": "/images/discover.jpg"
+        },
+        {
+            "data": [
+                {
+                    "lang": "en", 
+                    "title": "Euclid Science 101",
+                    "subtitle": "A whistle-stop tour of the mission science"
+                },
+                {
+                    "lang": "fr", 
+                    "title": "Science 101 d'Euclid",
+                    "subtitle": "Un tour d'horizon de la science de la mission"
+                },
+                {
+                    "lang": "es", 
+                    "title": "Ciencia de Euclid 101",
+                    "subtitle": "Un recorrido por la ciencia de la misión"
+                },
+                {
+                    "lang": "de", 
+                    "title": "Euclid Wissenschaft 101",
+                    "subtitle": "Ein kurzer Rundgang durch die Missionswissenschaft"
+                },
+                {
+                    "lang": "it", 
+                    "title": "Euclid Scienza 101",
+                    "subtitle": "Un tour in pillole della missione scientifica"
+                },
+                {
+                    "lang": "nl", 
+                    "title": "Euclid Wetenschap 101",
+                    "subtitle": "Een korte rondleiding door de missiewetenschap"
+                }
+            ],
+            "url": "trail/science101/intro",
+            "image": "/images/bao.jpg"
         }
     ]
 }
