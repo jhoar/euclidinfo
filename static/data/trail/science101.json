@@ -8,23 +8,23 @@
                 }, 
                 {
                     "lang": "fr",
-                    "title": "Phase De Lancement Et D'opérations Préliminaires"
+                    "title": "Introduction"
                 },
                 {
                     "lang": "es",
-                    "title": "Fase De Lanzamiento Y Primeras Operaciones"
+                    "title": "Introducción"
                 }, 
                 {
                     "lang": "de",
-                    "title": "Start Und Frühe Betriebsphase"
+                    "title": "Einführung"
                 },
                 {
                     "lang": "it",
-                    "title": "Fase Di Lancio E Prime Operazioni"
+                    "title": "Introduzione"
                 },
                 {
                     "lang": "nl",
-                    "title": "Lancering En Vroege Operationele Fase"
+                    "title": "Inleiding"
                 }
         ],
         "prev": "",
@@ -39,23 +39,23 @@
                 }, 
                 {
                     "lang": "fr",
-                    "title": "Décontamination Et Refroidissement"
+                    "title": "La science de la mission"
                 },
                 {
                     "lang": "es",
-                    "title": "Descontaminación Y Enfriamiento"
+                    "title": "Misión científica"
                 }, 
                 {
                     "lang": "de",
-                    "title": "Dekontamination Und Abkühlung"
+                    "title": "Mission Wissenschaft"
                 },
                 {
                     "lang": "it",
-                    "title": "Decontaminazione E Raffreddamento"
+                    "title": "Missione scientifica"
                 },
                 {
                     "lang": "nl",
-                    "title": "Ontsmetting En Afkoeling"
+                    "title": "Missie wetenschap"
                 }
         ],
         "prev": "intro",
@@ -70,23 +70,23 @@
                 }, 
                 {
                     "lang": "fr",
-                    "title": "Phase De Mise En Service De L'engin Spatial"
+                    "title": "Qu'est-ce que la matière noire ?"
                 },
                 {
                     "lang": "es",
-                    "title": "Fase De Puesta En Servicio De La Nave Espacial"
+                    "title": "¿Qué es la materia oscura?"
                 }, 
                 {
                     "lang": "de",
-                    "title": "Phase Der Inbetriebnahme Der Raumsonde"
+                    "title": "Was ist dunkle Materie?"
                 },
                 {
                     "lang": "it",
-                    "title": "Fase Di Messa In Servizio Del Veicolo Spaziale"
+                    "title": "Che cos'è la materia oscura?"
                 },
                 {
                     "lang": "nl",
-                    "title": "Inbedrijfstellingsfase Van Het Ruimteschip"
+                    "title": "Wat is donkere materie?"
                 }
         ],
         "prev": "science",
@@ -101,23 +101,23 @@
                 }, 
                 {
                     "lang": "fr",
-                    "title": "Phase De Vérification Des Performances"
+                    "title": "Qu'est-ce que l'énergie noire ?"
                 },
                 {
                     "lang": "es",
-                    "title": "Fase De Verificación Del Rendimiento"
+                    "title": "¿Qué es la energía oscura?"
                 }, 
                 {
                     "lang": "de",
-                    "title": "Phase Der Leistungsüberprüfung"
+                    "title": "Was ist dunkle Energie?"
                 },
                 {
                     "lang": "it",
-                    "title": "Fase Di Verifica Delle Prestazioni"
+                    "title": "Cos'è l'energia oscura?"
                 },
                 {
                     "lang": "nl",
-                    "title": "Fase Van Prestatieverificatie"
+                    "title": "Wat is donkere energie?"
                 }
         ],
         "prev": "darkmatter",
@@ -132,23 +132,23 @@
                 }, 
                 {
                     "lang": "fr",
-                    "title": "Première Phase D'étude"
+                    "title": "Qu'est-ce que l'effet de lentille gravitationnelle ?"
                 },
                 {
                     "lang": "es",
-                    "title": "Fase Inicial Del Sondeo"
+                    "title": "¿Qué son las lentes gravitacionales?"
                 }, 
                 {
                     "lang": "de",
-                    "title": "Frühe Durchmusterungsphase"
+                    "title": "Was ist Gravitationslinseneffekt?"
                 },
                 {
                     "lang": "it",
-                    "title": "Fase Iniziale Del Rilevamento"
+                    "title": "Cos'è il lensing gravitazionale?"
                 },
                 {
                     "lang": "nl",
-                    "title": "Vroege Onderzoeksfase"
+                    "title": "Wat is gravitationele lensing?"
                 }
         ],
         "prev": "darkenergy",
@@ -163,23 +163,23 @@
                 }, 
                 {
                     "lang": "fr",
-                    "title": "Phase D'étude De Routine"
+                    "title": "Que sont les oscillations acoustiques baryoniques ?"
                 },
                 {
                     "lang": "es",
-                    "title": "Fase De Reconocimiento Rutinario"
+                    "title": "¿Qué son las oscilaciones acústicas bariónicas?"
                 }, 
                 {
                     "lang": "de",
-                    "title": "Routine-Untersuchungsphase"
+                    "title": "Was sind baryonische akustische Oszillationen?"
                 },
                 {
                     "lang": "it",
-                    "title": "Fase Di Rilevamento Di Routine"
+                    "title": "Cosa sono le oscillazioni acustiche barioniche?"
                 },
                 {
                     "lang": "nl",
-                    "title": "Routine Survey-Fase"
+                    "title": "Wat zijn baryonische akoestische oscillaties?"
                 }
         ],
         "prev": "lensing",
@@ -190,27 +190,27 @@
             [
                 {
                     "lang": "en",
-                    "title": "Legacy Science Beyond Cosmology"
+                    "title": "Legacy science beyond cosmology"
                 }, 
                 {
                     "lang": "fr",
-                    "title": "Les Données D'euclid"
+                    "title": "L'héritage scientifique au-delà de la cosmologie"
                 },
                 {
                     "lang": "es",
-                    "title": "Publicación De Datos De Euclid"
+                    "title": "El legado de la ciencia más allá de la cosmología"
                 }, 
                 {
                     "lang": "de",
-                    "title": "Euclid-Datenveröffentlichungen"
+                    "title": "Wissenschaftliches Erbe jenseits der Kosmologie"
                 },
                 {
                     "lang": "it",
-                    "title": "I Dati Rilasciati Da Euclid"
+                    "title": "Scienza ereditaria oltre la cosmologia"
                 },
                 {
                     "lang": "nl",
-                    "title": "Euclides Gegevens"
+                    "title": "Wetenschap voorbij kosmologie"
                 }
         ],
         "prev": "bao",
