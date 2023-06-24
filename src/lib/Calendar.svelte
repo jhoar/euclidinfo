@@ -21,8 +21,6 @@
                 tags: eventsjson[index]['type']
             }
 
-            console.log(eventsjson[index]['tags']);
-
             if (entry.tags != undefined && entry.tags.find(elem => elem === 'GsPass')) {
                 entry.gspass = true;
             }

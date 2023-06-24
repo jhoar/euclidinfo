@@ -1,8 +1,6 @@
 <script lang="ts">
     export let left: string = "";
     export let right: string = "";
-    console.log(left)
-    console.log(right)
 </script>
 
 <div class="grid grid-cols-3 gap-4 p-2">
