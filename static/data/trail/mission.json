@@ -1,218 +1,162 @@
-{
-    "leop": {
-        "data":  
-            [
-                {
-                    "lang": "en",
-                    "title": "Launch And Early Operations Phase"
-                }, 
-                {
-                    "lang": "fr",
-                    "title": "Phase De Lancement Et D'opérations Préliminaires"
-                },
-                {
-                    "lang": "es",
-                    "title": "Fase De Lanzamiento Y Primeras Operaciones"
-                }, 
-                {
-                    "lang": "de",
-                    "title": "Start Und Frühe Betriebsphase"
-                },
-                {
-                    "lang": "it",
-                    "title": "Fase Di Lancio E Prime Operazioni"
-                },
-                {
-                    "lang": "nl",
-                    "title": "Lancering En Vroege Operationele Fase"
-                }
-        ],
-        "prev": "",
-        "next": "decon"
-    },
-    "decon": {
-        "data":  
-            [
-                {
-                    "lang": "en",
-                    "title": "Decontamination And Cooldown"
-                }, 
-                {
-                    "lang": "fr",
-                    "title": "Décontamination Et Refroidissement"
-                },
-                {
-                    "lang": "es",
-                    "title": "Descontaminación Y Enfriamiento"
-                }, 
-                {
-                    "lang": "de",
-                    "title": "Dekontamination Und Abkühlung"
-                },
-                {
-                    "lang": "it",
-                    "title": "Decontaminazione E Raffreddamento"
-                },
-                {
-                    "lang": "nl",
-                    "title": "Ontsmetting En Afkoeling"
-                }
-        ],
-        "prev": "leop",
-        "next": "comm"
-    },
-    "comm": {
-        "data":  
-            [
-                {
-                    "lang": "en",
-                    "title": "Spacecraft Commissioning Phase"
-                }, 
-                {
-                    "lang": "fr",
-                    "title": "Phase De Mise En Service De L'engin Spatial"
-                },
-                {
-                    "lang": "es",
-                    "title": "Fase De Puesta En Servicio De La Nave Espacial"
-                }, 
-                {
-                    "lang": "de",
-                    "title": "Phase Der Inbetriebnahme Der Raumsonde"
-                },
-                {
-                    "lang": "it",
-                    "title": "Fase Di Messa In Servizio Del Veicolo Spaziale"
-                },
-                {
-                    "lang": "nl",
-                    "title": "Inbedrijfstellingsfase Van Het Ruimteschip"
-                }
-        ],
-        "prev": "decon",
-        "next": "pv"
-    },
-    "pv": {
-        "data":  
-            [
-                {
-                    "lang": "en",
-                    "title": "Performance Verification Phase"
-                }, 
-                {
-                    "lang": "fr",
-                    "title": "Phase De Vérification Des Performances"
-                },
-                {
-                    "lang": "es",
-                    "title": "Fase De Verificación Del Rendimiento"
-                }, 
-                {
-                    "lang": "de",
-                    "title": "Phase Der Leistungsüberprüfung"
-                },
-                {
-                    "lang": "it",
-                    "title": "Fase Di Verifica Delle Prestazioni"
-                },
-                {
-                    "lang": "nl",
-                    "title": "Fase Van Prestatieverificatie"
-                }
-        ],
-        "prev": "comm",
-        "next": "esop"
-    },
-    "esop": {
-        "data":  
-            [
-                {
-                    "lang": "en",
-                    "title": "Early Survey Phase"
-                }, 
-                {
-                    "lang": "fr",
-                    "title": "Première Phase D'étude"
-                },
-                {
-                    "lang": "es",
-                    "title": "Fase Inicial Del Sondeo"
-                }, 
-                {
-                    "lang": "de",
-                    "title": "Frühe Durchmusterungsphase"
-                },
-                {
-                    "lang": "it",
-                    "title": "Fase Iniziale Del Rilevamento"
-                },
-                {
-                    "lang": "nl",
-                    "title": "Vroege Onderzoeksfase"
-                }
-        ],
-        "prev": "pv",
-        "next": "routine"
-    },
-    "routine": {
-        "data":  
-            [
-                {
-                    "lang": "en",
-                    "title": "Routine Survey Phase"
-                }, 
-                {
-                    "lang": "fr",
-                    "title": "Phase D'étude De Routine"
-                },
-                {
-                    "lang": "es",
-                    "title": "Fase De Reconocimiento Rutinario"
-                }, 
-                {
-                    "lang": "de",
-                    "title": "Routine-Untersuchungsphase"
-                },
-                {
-                    "lang": "it",
-                    "title": "Fase Di Rilevamento Di Routine"
-                },
-                {
-                    "lang": "nl",
-                    "title": "Routine Survey-Fase"
-                }
-        ],
-        "prev": "esop",
-        "next": "dr"
-    },
-    "dr": {
-        "data":  
-            [
-                {
-                    "lang": "en",
-                    "title": "Euclid's Data Releases"
-                }, 
-                {
-                    "lang": "fr",
-                    "title": "Les Données D'euclid"
-                },
-                {
-                    "lang": "es",
-                    "title": "Publicación De Datos De Euclid"
-                }, 
-                {
-                    "lang": "de",
-                    "title": "Euclid-Datenveröffentlichungen"
-                },
-                {
-                    "lang": "it",
-                    "title": "I Dati Rilasciati Da Euclid"
-                },
-                {
-                    "lang": "nl",
-                    "title": "Euclides Gegevens"
-                }
-        ],
-        "prev": "routine",
-        "next": ""
-    }}
+[ {
+  "page" : "leop",
+  "data" : [ {
+    "language" : "en",
+    "title" : "Launch And Early Operations Phase"
+  }, {
+    "language" : "it",
+    "title" : "Fase di lancio e prime operazioni"
+  }, {
+    "language" : "de",
+    "title" : "Start und frühe Betriebsphase"
+  }, {
+    "language" : "nl",
+    "title" : "Lancering en vroege operationele fase"
+  }, {
+    "language" : "fr",
+    "title" : "Phase de lancement et de début des opérations"
+  }, {
+    "language" : "es",
+    "title" : "Fase de lanzamiento y primeras operaciones"
+  } ],
+  "prev" : "",
+  "next" : "decon"
+}, {
+  "page" : "decon",
+  "data" : [ {
+    "language" : "en",
+    "title" : "Decontamination And Cooldown"
+  }, {
+    "language" : "it",
+    "title" : "Decontaminazione e raffreddamento"
+  }, {
+    "language" : "de",
+    "title" : "Dekontamination und Abkühlung"
+  }, {
+    "language" : "nl",
+    "title" : "Ontsmetting en afkoeling"
+  }, {
+    "language" : "fr",
+    "title" : "Décontamination et refroidissement"
+  }, {
+    "language" : "es",
+    "title" : "Descontaminación y enfriamiento"
+  } ],
+  "prev" : "leop",
+  "next" : "comm"
+}, {
+  "page" : "comm",
+  "data" : [ {
+    "language" : "en",
+    "title" : "Spacecraft Commissioning Phase"
+  }, {
+    "language" : "it",
+    "title" : "Fase di messa in servizio del veicolo spaziale"
+  }, {
+    "language" : "de",
+    "title" : "Phase der Inbetriebnahme des Raumfahrzeugs"
+  }, {
+    "language" : "nl",
+    "title" : "Inbedrijfstellingsfase ruimtevaartuig"
+  }, {
+    "language" : "fr",
+    "title" : "Phase de mise en service de l'engin spatial"
+  }, {
+    "language" : "es",
+    "title" : "Fase de puesta en servicio de la nave espacial"
+  } ],
+  "prev" : "decon",
+  "next" : "pv"
+}, {
+  "page" : "pv",
+  "data" : [ {
+    "language" : "en",
+    "title" : "Performance Verification Phase"
+  }, {
+    "language" : "it",
+    "title" : "Fase di verifica delle prestazioni"
+  }, {
+    "language" : "de",
+    "title" : "Phase der Leistungsüberprüfung"
+  }, {
+    "language" : "nl",
+    "title" : "Prestatieverificatiefase"
+  }, {
+    "language" : "fr",
+    "title" : "Phase de vérification des performances"
+  }, {
+    "language" : "es",
+    "title" : "Fase de verificación del rendimiento"
+  } ],
+  "prev" : "comm",
+  "next" : "esop"
+}, {
+  "page" : "esop",
+  "data" : [ {
+    "language" : "en",
+    "title" : "Early Survey Phase"
+  }, {
+    "language" : "it",
+    "title" : "Fase iniziale di indagine"
+  }, {
+    "language" : "de",
+    "title" : "Frühe Erhebungsphase"
+  }, {
+    "language" : "nl",
+    "title" : "Vroege onderzoeksfase"
+  }, {
+    "language" : "fr",
+    "title" : "Phase d'enquête préliminaire"
+  }, {
+    "language" : "es",
+    "title" : "Fase inicial de encuesta"
+  } ],
+  "prev" : "pv",
+  "next" : "routine"
+}, {
+  "page" : "routine",
+  "data" : [ {
+    "language" : "en",
+    "title" : "Routine Survey Phase"
+  }, {
+    "language" : "it",
+    "title" : "Fase di indagine di routine"
+  }, {
+    "language" : "de",
+    "title" : "Phase der Routineerhebung"
+  }, {
+    "language" : "nl",
+    "title" : "Routinematige onderzoeksfase"
+  }, {
+    "language" : "fr",
+    "title" : "Phase d'enquête de routine"
+  }, {
+    "language" : "es",
+    "title" : "Fase de encuesta de rutina"
+  } ],
+  "prev" : "esop",
+  "next" : "dr"
+}, {
+  "page" : "dr",
+  "data" : [ {
+    "language" : "en",
+    "title" : "Euclid's Data Releases"
+  }, {
+    "language" : "it",
+    "title" : "Rilasci di dati di Euclide"
+  }, {
+    "language" : "de",
+    "title" : "Euclid's Datenfreigaben"
+  }, {
+    "language" : "nl",
+    "title" : "Euclides' gegevensvrijgaven"
+  }, {
+    "language" : "fr",
+    "title" : "Communiqués de données d'Euclide"
+  }, {
+    "language" : "es",
+    "title" : "Comunicados de datos de Euclid"
+  } ],
+  "prev" : "routine",
+  "next" : ""
+} ]

@@ -1,218 +1,162 @@
-{
-    "intro": {
-        "data":  
-            [
-                {
-                    "lang": "en",
-                    "title": "Introduction"
-                }, 
-                {
-                    "lang": "fr",
-                    "title": "Introduction"
-                },
-                {
-                    "lang": "es",
-                    "title": "Introducción"
-                }, 
-                {
-                    "lang": "de",
-                    "title": "Einführung"
-                },
-                {
-                    "lang": "it",
-                    "title": "Introduzione"
-                },
-                {
-                    "lang": "nl",
-                    "title": "Inleiding"
-                }
-        ],
-        "prev": "",
-        "next": "science"
-    },
-    "science": {
-        "data":  
-            [
-                {
-                    "lang": "en",
-                    "title": "Mission science"
-                }, 
-                {
-                    "lang": "fr",
-                    "title": "La science de la mission"
-                },
-                {
-                    "lang": "es",
-                    "title": "Misión científica"
-                }, 
-                {
-                    "lang": "de",
-                    "title": "Mission Wissenschaft"
-                },
-                {
-                    "lang": "it",
-                    "title": "Missione scientifica"
-                },
-                {
-                    "lang": "nl",
-                    "title": "Missie wetenschap"
-                }
-        ],
-        "prev": "intro",
-        "next": "darkmatter"
-    },
-    "darkmatter": {
-        "data":  
-            [
-                {
-                    "lang": "en",
-                    "title": "What is dark matter?"
-                }, 
-                {
-                    "lang": "fr",
-                    "title": "Qu'est-ce que la matière noire ?"
-                },
-                {
-                    "lang": "es",
-                    "title": "¿Qué es la materia oscura?"
-                }, 
-                {
-                    "lang": "de",
-                    "title": "Was ist dunkle Materie?"
-                },
-                {
-                    "lang": "it",
-                    "title": "Che cos'è la materia oscura?"
-                },
-                {
-                    "lang": "nl",
-                    "title": "Wat is donkere materie?"
-                }
-        ],
-        "prev": "science",
-        "next": "darkenergy"
-    },
-    "darkenergy": {
-        "data":  
-            [
-                {
-                    "lang": "en",
-                    "title": "What is dark energy?"
-                }, 
-                {
-                    "lang": "fr",
-                    "title": "Qu'est-ce que l'énergie noire ?"
-                },
-                {
-                    "lang": "es",
-                    "title": "¿Qué es la energía oscura?"
-                }, 
-                {
-                    "lang": "de",
-                    "title": "Was ist dunkle Energie?"
-                },
-                {
-                    "lang": "it",
-                    "title": "Cos'è l'energia oscura?"
-                },
-                {
-                    "lang": "nl",
-                    "title": "Wat is donkere energie?"
-                }
-        ],
-        "prev": "darkmatter",
-        "next": "lensing"
-    },
-    "lensing": {
-        "data":  
-            [
-                {
-                    "lang": "en",
-                    "title": "What is gravitational lensing?"
-                }, 
-                {
-                    "lang": "fr",
-                    "title": "Qu'est-ce que l'effet de lentille gravitationnelle ?"
-                },
-                {
-                    "lang": "es",
-                    "title": "¿Qué son las lentes gravitacionales?"
-                }, 
-                {
-                    "lang": "de",
-                    "title": "Was ist Gravitationslinseneffekt?"
-                },
-                {
-                    "lang": "it",
-                    "title": "Cos'è il lensing gravitazionale?"
-                },
-                {
-                    "lang": "nl",
-                    "title": "Wat is gravitationele lensing?"
-                }
-        ],
-        "prev": "darkenergy",
-        "next": "bao"
-    },
-    "bao": {
-        "data":  
-            [
-                {
-                    "lang": "en",
-                    "title": "What are Baryonic Acoustic Oscillations?"
-                }, 
-                {
-                    "lang": "fr",
-                    "title": "Que sont les oscillations acoustiques baryoniques ?"
-                },
-                {
-                    "lang": "es",
-                    "title": "¿Qué son las oscilaciones acústicas bariónicas?"
-                }, 
-                {
-                    "lang": "de",
-                    "title": "Was sind baryonische akustische Oszillationen?"
-                },
-                {
-                    "lang": "it",
-                    "title": "Cosa sono le oscillazioni acustiche barioniche?"
-                },
-                {
-                    "lang": "nl",
-                    "title": "Wat zijn baryonische akoestische oscillaties?"
-                }
-        ],
-        "prev": "lensing",
-        "next": "legacy"
-    },
-    "legacy": {
-        "data":  
-            [
-                {
-                    "lang": "en",
-                    "title": "Legacy science beyond cosmology"
-                }, 
-                {
-                    "lang": "fr",
-                    "title": "L'héritage scientifique au-delà de la cosmologie"
-                },
-                {
-                    "lang": "es",
-                    "title": "El legado de la ciencia más allá de la cosmología"
-                }, 
-                {
-                    "lang": "de",
-                    "title": "Wissenschaftliches Erbe jenseits der Kosmologie"
-                },
-                {
-                    "lang": "it",
-                    "title": "Scienza ereditaria oltre la cosmologia"
-                },
-                {
-                    "lang": "nl",
-                    "title": "Wetenschap voorbij kosmologie"
-                }
-        ],
-        "prev": "bao",
-        "next": ""
-    }}
+[ {
+  "page" : "intro",
+  "data" : [ {
+    "language" : "en",
+    "title" : "Introduction"
+  }, {
+    "language" : "it",
+    "title" : "Introduzione"
+  }, {
+    "language" : "de",
+    "title" : "Einführung"
+  }, {
+    "language" : "nl",
+    "title" : "Inleiding"
+  }, {
+    "language" : "fr",
+    "title" : "Introduction"
+  }, {
+    "language" : "es",
+    "title" : "Introducción"
+  } ],
+  "prev" : "",
+  "next" : "science"
+}, {
+  "page" : "science",
+  "data" : [ {
+    "language" : "en",
+    "title" : "Mission science"
+  }, {
+    "language" : "it",
+    "title" : "Missione scientifica"
+  }, {
+    "language" : "de",
+    "title" : "Mission Wissenschaft"
+  }, {
+    "language" : "nl",
+    "title" : "Missie wetenschap"
+  }, {
+    "language" : "fr",
+    "title" : "Science de la mission"
+  }, {
+    "language" : "es",
+    "title" : "Misión científica"
+  } ],
+  "prev" : "intro",
+  "next" : "darkmatter"
+}, {
+  "page" : "darkmatter",
+  "data" : [ {
+    "language" : "en",
+    "title" : "What is dark matter?"
+  }, {
+    "language" : "it",
+    "title" : "Che cos'è la materia oscura?"
+  }, {
+    "language" : "de",
+    "title" : "Was ist dunkle Materie?"
+  }, {
+    "language" : "nl",
+    "title" : "Wat is donkere materie?"
+  }, {
+    "language" : "fr",
+    "title" : "Qu'est-ce que la matière noire ?"
+  }, {
+    "language" : "es",
+    "title" : "¿Qué es la materia oscura?"
+  } ],
+  "prev" : "science",
+  "next" : "darkenergy"
+}, {
+  "page" : "darkenergy",
+  "data" : [ {
+    "language" : "en",
+    "title" : "What is dark energy?"
+  }, {
+    "language" : "it",
+    "title" : "Che cos'è l'energia oscura?"
+  }, {
+    "language" : "de",
+    "title" : "Was ist dunkle Energie?"
+  }, {
+    "language" : "nl",
+    "title" : "Wat is donkere energie?"
+  }, {
+    "language" : "fr",
+    "title" : "Qu'est-ce que l'énergie noire ?"
+  }, {
+    "language" : "es",
+    "title" : "¿Qué es la energía oscura?"
+  } ],
+  "prev" : "darkmatter",
+  "next" : "lensing"
+}, {
+  "page" : "lensing",
+  "data" : [ {
+    "language" : "en",
+    "title" : "What is gravitational lensing?"
+  }, {
+    "language" : "it",
+    "title" : "Che cos'è il lensing gravitazionale?"
+  }, {
+    "language" : "de",
+    "title" : "Was ist Gravitationslinseneffekt?"
+  }, {
+    "language" : "nl",
+    "title" : "Wat is gravitationele lensing?"
+  }, {
+    "language" : "fr",
+    "title" : "Qu'est-ce que la lentille gravitationnelle ?"
+  }, {
+    "language" : "es",
+    "title" : "¿Qué es la lente gravitacional?"
+  } ],
+  "prev" : "darkenergy",
+  "next" : "bao"
+}, {
+  "page" : "bao",
+  "data" : [ {
+    "language" : "en",
+    "title" : "What are Baryonic Acoustic Oscillations?"
+  }, {
+    "language" : "it",
+    "title" : "Cosa sono le oscillazioni acustiche barioniche?"
+  }, {
+    "language" : "de",
+    "title" : "Was sind baryonische akustische Oszillationen?"
+  }, {
+    "language" : "nl",
+    "title" : "Wat zijn baryonische akoestische oscillaties?"
+  }, {
+    "language" : "fr",
+    "title" : "Que sont les oscillations acoustiques baryoniques ?"
+  }, {
+    "language" : "es",
+    "title" : "¿Qué son las oscilaciones acústicas bariónicas?"
+  } ],
+  "prev" : "lensing",
+  "next" : "legacy"
+}, {
+  "page" : "legacy",
+  "data" : [ {
+    "language" : "en",
+    "title" : "Legacy science beyond cosmology"
+  }, {
+    "language" : "it",
+    "title" : "La scienza dell'eredità oltre la cosmologia"
+  }, {
+    "language" : "de",
+    "title" : "Wissenschaftliches Erbe jenseits der Kosmologie"
+  }, {
+    "language" : "nl",
+    "title" : "Wetenschap voorbij kosmologie"
+  }, {
+    "language" : "fr",
+    "title" : "L'héritage de la science au-delà de la cosmologie"
+  }, {
+    "language" : "es",
+    "title" : "El legado de la ciencia más allá de la cosmología"
+  } ],
+  "prev" : "bao",
+  "next" : ""
+} ]

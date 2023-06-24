@@ -5,12 +5,22 @@ export async function load ( { fetch, params } ) {
     const jsonresp = await fetch(jsonFile);
     const jsondata = await jsonresp.json(); 
 
-    const itemData = jsondata[params.item]['data'];
-    for (var item of itemData) {
-        const htmlFile = `\\data\\trail\\${params.topic}\\${item['lang']}\\${params.item}.html`;
-        const htmlresp = await fetch(htmlFile);
-        item['html'] = await htmlresp.text(); 
+    var p;
+    var n;
+    var j;
+
+    for (var item of jsondata) {
+        if (item['page'] === params.item) {
+            j = item
+            for (var lang of item['data']) {
+                const htmlFile = `\\data\\trail\\${params.topic}\\${lang['language']}\\${params.item}.html`;
+                const htmlresp = await fetch(htmlFile);
+                lang['html'] = await htmlresp.text();         
+                p = item['prev']
+                n = item['next']
+            }
+        }        
     }
 
-    return {json: itemData, prev: jsondata[params.item]['prev'], next: jsondata[params.item]['next']}
+    return {json: j, prev: p, next: n}
 }

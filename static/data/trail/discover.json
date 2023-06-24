@@ -1,406 +1,300 @@
-{
-    "intro": {
-        "data":  
-            [
-                {
-                    "lang": "en",
-                    "title": "Exploring the Dark Universe"
-                }, 
-                {
-                    "lang": "fr",
-                    "title": "Explorer l'univers noir"
-                },
-                {
-                    "lang": "es",
-                    "title": "Explorando el Universo Oscuro"
-                }, 
-                {
-                    "lang": "de",
-                    "title": "Die Erforschung des dunklen Universums"
-                },
-                {
-                    "lang": "it",
-                    "title": "Esplorare l'universo oscuro"
-                },
-                {
-                    "lang": "nl",
-                    "title": "Het donkere heelal verkennen"
-                }
-        ],
-        "prev": "",
-        "next": "summary"
-    }, 
-    "summary": {
-        "data":  
-            [
-                {
-                    "lang": "en",
-                    "title": "Euclid in a nutshell"
-                }, 
-                {
-                    "lang": "fr",
-                    "title": "Euclid en bref"
-                },
-                {
-                    "lang": "es",
-                    "title": "Euclid en breve"
-                }, 
-                {
-                    "lang": "de",
-                    "title": "Euclid in Kürze"
-                },
-                {
-                    "lang": "it",
-                    "title": "Euclid in breve"
-                },
-                {
-                    "lang": "nl",
-                    "title": "Euclid in het kort"
-                }
-        ],
-        "prev": "intro",
-        "next": "l2"
-    },
-    "l2": {
-        "data":  
-            [
-                {
-                    "lang": "en",
-                    "title": "Euclid's journey to L2"
-                }, 
-                {
-                    "lang": "fr",
-                    "title": "Le voyage d'Euclid vers L2"
-                },
-                {
-                    "lang": "es",
-                    "title": "El viaje de Euclid a L2"
-                }, 
-                {
-                    "lang": "de",
-                    "title": "Euclids reise nach L2"
-                },
-                {
-                    "lang": "it",
-                    "title": "Il viaggio di Euclid in L2"
-                },
-                {
-                    "lang": "nl",
-                    "title": "Euclids' reis naar L2"
-                }
-        ],
-        "prev": "summary",
-        "next": "mysteries"
-    },
-    "mysteries": {
-        "data":  
-            [
-                {
-                    "lang": "en",
-                    "title": "Five mysteries Euclid will help solve"
-                }, 
-                {
-                    "lang": "fr",
-                    "title": "Cinq mystères qu'Euclid aidera à résoudre"
-                },
-                {
-                    "lang": "es",
-                    "title": "Cinco misterios que Euclid ayudará a resolver"
-                }, 
-                {
-                    "lang": "de",
-                    "title": "Fünf Rätsel, die Euclid lösen hilft"
-                },
-                {
-                    "lang": "it",
-                    "title": "Cinque misteri che Euclid aiuterà a risolvere"
-                },
-                {
-                    "lang": "nl",
-                    "title": "Vijf mysteries die Euclid helpt oplossen"
-                }
-        ],
-        "prev": "l2",
-        "next": "spacecraft"
-    },
-    "spacecraft": {
-        "data":  
-            [
-                {
-                    "lang": "en",
-                    "title": "The Euclid spacecraft"
-                }, 
-                {
-                    "lang": "fr",
-                    "title": "La sonde Euclid"
-                },
-                {
-                    "lang": "es",
-                    "title": "La nave espacial Euclid"
-                }, 
-                {
-                    "lang": "de",
-                    "title": "Die Raumsonde Euclid"
-                },
-                {
-                    "lang": "it",
-                    "title": "La navicella Euclid"
-                },
-                {
-                    "lang": "nl",
-                    "title": "Het ruimteschip Euclid"
-                }
-        ],
-        "prev": "mysteries",
-        "next": "instruments"
-    },
-    "instruments": {
-        "data":  
-            [
-                {
-                    "lang": "en",
-                    "title": "Euclid's visible and infrared instruments"
-                }, 
-                {
-                    "lang": "fr",
-                    "title": "Instruments d'Euclid pour le visible et l'infrarouge"
-                },
-                {
-                    "lang": "es",
-                    "title": "Instrumentos visibles e infrarrojos de Euclid"
-                }, 
-                {
-                    "lang": "de",
-                    "title": "Euclids sichtbare und infrarote Instrumente"
-                },
-                {
-                    "lang": "it",
-                    "title": "Strumenti di Euclid per il visibile e l'infrarosso"
-                },
-                {
-                    "lang": "nl",
-                    "title": "Euclids' zichtbare en infrarode instrumenten"
-                }
-        ],
-        "prev": "spacecraft",
-        "next": "darkuniverse"
-    },
-    "darkuniverse": {
-        "data":  
-            [
-                {
-                    "lang": "en",
-                    "title": "The light and dark Universe"
-                }, 
-                {
-                    "lang": "fr",
-                    "title": "L'univers clair et obscur"
-                },
-                {
-                    "lang": "es",
-                    "title": "Universo claro y oscuro"
-                }, 
-                {
-                    "lang": "de",
-                    "title": "Das helle und das dunkle Universum"
-                },
-                {
-                    "lang": "it",
-                    "title": "L'Universo chiaro e scuro"
-                },
-                {
-                    "lang": "nl",
-                    "title": "Het lichte en donkere heelal"
-                }
-        ],
-        "prev": "instruments",
-        "next": "spacetime"
-    },
-    "spacetime": {
-        "data":  
-            [
-                {
-                    "lang": "en",
-                    "title": "The Universe across space and time",
-                    "html": ""
-                }, 
-                {
-                    "lang": "fr",
-                    "title": "L'univers dans l'espace et le temps"
-                },
-                {
-                    "lang": "es",
-                    "title": "El Universo a través del espacio y el tiempo"
-                }, 
-                {
-                    "lang": "de",
-                    "title": "Das Universum in Raum und Zeit"
-                },
-                {
-                    "lang": "it",
-                    "title": "L'universo attraverso lo spazio e il tempo"
-                },
-                {
-                    "lang": "nl",
-                    "title": "Het heelal in ruimte en tijd"
-                }
-        ],
-        "prev": "darkuniverse",
-        "next": "wl"
-    },
-    "wl": {
-        "data":  
-            [
-                {
-                    "lang": "en",
-                    "title": "What Euclid will measure: Weak Lensing"
-                }, 
-                {
-                    "lang": "fr",
-                    "title": "Ce qu'Euclid mesurera : Lentille faible"
-                },
-                {
-                    "lang": "es",
-                    "title": "Lo que medirá Euclid: la lente débil"
-                }, 
-                {
-                    "lang": "de",
-                    "title": "Was Euclid messen wird: Schwaches Lensing"
-                },
-                {
-                    "lang": "it",
-                    "title": "Cosa misurerà Euclid: Lensing debole"
-                },
-                {
-                    "lang": "nl",
-                    "title": "Wat Euclid zal meten: Zwakke Lensing"
-                }
-        ],
-        "prev": "spacetime",
-        "next": "bao"
-    },
-    "bao": {
-        "data":  
-            [
-                {
-                    "lang": "en",
-                    "title": "What Euclid will measure: Baryonic Acoustic Oscillations"
-                }, 
-                {
-                    "lang": "fr",
-                    "title": "Ce qu'Euclid mesurera : les oscillations acoustiques baryoniques"
-                },
-                {
-                    "lang": "es",
-                    "title": "Lo que medirá Euclid: Oscilaciones acústicas bariónicas"
-                }, 
-                {
-                    "lang": "de",
-                    "title": "Was Euclid messen wird: Baryonische akustische Oszillationen"
-                },
-                {
-                    "lang": "it",
-                    "title": "Cosa misurerà Euclid: le oscillazioni acustiche barioniche"
-                },
-                {
-                    "lang": "nl",
-                    "title": "Wat Euclid zal meten: Baryonische akoestische oscillaties"
-                }
-        ],
-        "prev": "wl",
-        "next": "catalogue"
-    },
-    "catalogue": {
-        "data":  
-            [
-                {
-                    "lang": "en",
-                    "title": "Euclid's treasure trove"
-                }, 
-                {
-                    "lang": "fr",
-                    "title": "Le trésor d'Euclid"
-                },
-                {
-                    "lang": "es",
-                    "title": "El tesoro de Euclid"
-                }, 
-                {
-                    "lang": "de",
-                    "title": "Euclids Fundgrube"
-                },
-                {
-                    "lang": "it",
-                    "title": "Il tesoro di Euclid"
-                },
-                {
-                    "lang": "nl",
-                    "title": "De schat van Euclid"
-                }
-        ],
-        "prev": "bao",
-        "next": "archive"
-    },
-    "archive": {
-        "data":  
-            [
-                {
-                    "lang": "en",
-                    "title": "Astronomy science archive: Maximising science from our missions"
-                }, 
-                {
-                    "lang": "fr",
-                    "title": "Archives scientifiques de l'astronomie : Maximiser la science à partir de nos missions"
-                },
-                {
-                    "lang": "es",
-                    "title": "Archivo de ciencia astronómica: Maximizar la ciencia de nuestras misiones"
-                }, 
-                {
-                    "lang": "de",
-                    "title": "Astronomisches Wissenschaftsarchiv: Maximierung der wissenschaftlichen Ergebnisse unserer Missionen"
-                },
-                {
-                    "lang": "it",
-                    "title": "Archivio scientifico dell'astronomia: Massimizzare la scienza delle nostre missioni"
-                },
-                {
-                    "lang": "nl",
-                    "title": "Astronomisch wetenschapsarchief: Maximale wetenschap uit onze missies"
-                }
-        ],
-        "prev": "catalogue",
-        "next": "collaboration"
-    },
-    "collaboration": {
-        "data":  
-            [
-                {
-                    "lang": "en",
-                    "title": "Euclid: An ESA-led global collaboration"
-                }, 
-                {
-                    "lang": "fr",
-                    "title": "Euclid : Une collaboration mondiale dirigée par l'ESA"
-                },
-                {
-                    "lang": "es",
-                    "title": "Euclid: Una colaboración mundial dirigida por la ESA"
-                }, 
-                {
-                    "lang": "de",
-                    "title": "Euclid: Eine globale Zusammenarbeit unter der Leitung der ESA"
-                },
-                {
-                    "lang": "it",
-                    "title": "Euclid: Una collaborazione globale guidata dall'ESA"
-                },
-                {
-                    "lang": "nl",
-                    "title": "Euclid: Een wereldwijde samenwerking onder leiding van ESA"
-                }
-        ],
-        "prev": "archive",
-        "next": ""
-    }
-}
+[ {
+  "page" : "intro",
+  "data" : [ {
+    "language" : "en",
+    "title" : "Exploring the Dark Universe"
+  }, {
+    "language" : "it",
+    "title" : "Esplorare l'universo oscuro"
+  }, {
+    "language" : "de",
+    "title" : "Die Erforschung des dunklen Universums"
+  }, {
+    "language" : "nl",
+    "title" : "Het donkere heelal verkennen"
+  }, {
+    "language" : "fr",
+    "title" : "Explorer l'univers noir"
+  }, {
+    "language" : "es",
+    "title" : "Explorando el Universo Oscuro"
+  } ],
+  "prev" : "",
+  "next" : "summary"
+}, {
+  "page" : "summary",
+  "data" : [ {
+    "language" : "en",
+    "title" : "Euclid in a nutshell"
+  }, {
+    "language" : "it",
+    "title" : "Euclide in breve"
+  }, {
+    "language" : "de",
+    "title" : "Euklid in aller Kürze"
+  }, {
+    "language" : "nl",
+    "title" : "Euclides in een notendop"
+  }, {
+    "language" : "fr",
+    "title" : "Euclide en quelques mots"
+  }, {
+    "language" : "es",
+    "title" : "Euclides en pocas palabras"
+  } ],
+  "prev" : "intro",
+  "next" : "l2"
+}, {
+  "page" : "l2",
+  "data" : [ {
+    "language" : "en",
+    "title" : "Euclid's journey to L2"
+  }, {
+    "language" : "it",
+    "title" : "Il viaggio di Euclide in L2"
+  }, {
+    "language" : "de",
+    "title" : "Euklid's Reise nach L2"
+  }, {
+    "language" : "nl",
+    "title" : "Euclides' reis naar L2"
+  }, {
+    "language" : "fr",
+    "title" : "Le voyage d'Euclide vers L2"
+  }, {
+    "language" : "es",
+    "title" : "El viaje de Euclides a L2"
+  } ],
+  "prev" : "summary",
+  "next" : "mysteries"
+}, {
+  "page" : "mysteries",
+  "data" : [ {
+    "language" : "en",
+    "title" : "Five mysteries Euclid will help solve"
+  }, {
+    "language" : "it",
+    "title" : "Cinque misteri che Euclide aiuterà a risolvere"
+  }, {
+    "language" : "de",
+    "title" : "Fünf Rätsel, die Euklid lösen hilft"
+  }, {
+    "language" : "nl",
+    "title" : "Vijf mysteries die Euclides helpt oplossen"
+  }, {
+    "language" : "fr",
+    "title" : "Cinq mystères qu'Euclide aidera à résoudre"
+  }, {
+    "language" : "es",
+    "title" : "Cinco misterios que Euclides ayudará a resolver"
+  } ],
+  "prev" : "l2",
+  "next" : "spacecraft"
+}, {
+  "page" : "spacecraft",
+  "data" : [ {
+    "language" : "en",
+    "title" : "The Euclid spacecraft"
+  }, {
+    "language" : "it",
+    "title" : "La navicella Euclid"
+  }, {
+    "language" : "de",
+    "title" : "Die Raumsonde Euclid"
+  }, {
+    "language" : "nl",
+    "title" : "Het ruimteschip Euclides"
+  }, {
+    "language" : "fr",
+    "title" : "Le vaisseau spatial Euclid"
+  }, {
+    "language" : "es",
+    "title" : "La nave espacial Euclid"
+  } ],
+  "prev" : "mysteries",
+  "next" : "instruments"
+}, {
+  "page" : "instruments",
+  "data" : [ {
+    "language" : "en",
+    "title" : "Euclid's visible and infrared instruments"
+  }, {
+    "language" : "it",
+    "title" : "Gli strumenti di Euclide per il visibile e l'infrarosso"
+  }, {
+    "language" : "de",
+    "title" : "Euklids sichtbare und infrarote Instrumente"
+  }, {
+    "language" : "nl",
+    "title" : "Euclides' zichtbare en infrarode instrumenten"
+  }, {
+    "language" : "fr",
+    "title" : "Instruments visibles et infrarouges d'Euclide"
+  }, {
+    "language" : "es",
+    "title" : "Instrumentos visibles e infrarrojos de Euclides"
+  } ],
+  "prev" : "spacecraft",
+  "next" : "darkuniverse"
+}, {
+  "page" : "darkuniverse",
+  "data" : [ {
+    "language" : "en",
+    "title" : "The light and dark Universe"
+  }, {
+    "language" : "it",
+    "title" : "L'Universo chiaro e scuro"
+  }, {
+    "language" : "de",
+    "title" : "Das helle und das dunkle Universum"
+  }, {
+    "language" : "nl",
+    "title" : "Het lichte en donkere universum"
+  }, {
+    "language" : "fr",
+    "title" : "L'univers clair-obscur"
+  }, {
+    "language" : "es",
+    "title" : "El Universo claro y oscuro"
+  } ],
+  "prev" : "instruments",
+  "next" : "spacetime"
+}, {
+  "page" : "spacetime",
+  "data" : [ {
+    "language" : "en",
+    "title" : "The Universe across space and time"
+  }, {
+    "language" : "it",
+    "title" : "L'universo attraverso lo spazio e il tempo"
+  }, {
+    "language" : "de",
+    "title" : "Das Universum in Raum und Zeit"
+  }, {
+    "language" : "nl",
+    "title" : "Het heelal in ruimte en tijd"
+  }, {
+    "language" : "fr",
+    "title" : "L'univers dans l'espace et le temps"
+  }, {
+    "language" : "es",
+    "title" : "El Universo a través del espacio y el tiempo"
+  } ],
+  "prev" : "darkuniverse",
+  "next" : "wl"
+}, {
+  "page" : "wl",
+  "data" : [ {
+    "language" : "en",
+    "title" : "What Euclid will measure: Weak Lensing"
+  }, {
+    "language" : "it",
+    "title" : "Cosa misurerà Euclid: Lensing debole"
+  }, {
+    "language" : "de",
+    "title" : "Was Euclid messen wird: Schwaches Lensing"
+  }, {
+    "language" : "nl",
+    "title" : "Wat Euclides zal meten: Zwakke Lensing"
+  }, {
+    "language" : "fr",
+    "title" : "Ce qu'Euclid mesurera : Lentille faible"
+  }, {
+    "language" : "es",
+    "title" : "Lo que medirá Euclid: lentes débiles"
+  } ],
+  "prev" : "spacetime",
+  "next" : "bao"
+}, {
+  "page" : "bao",
+  "data" : [ {
+    "language" : "en",
+    "title" : "What Euclid will measure: Baryonic Acoustic Oscillations"
+  }, {
+    "language" : "it",
+    "title" : "Cosa misurerà Euclid: le oscillazioni acustiche barioniche"
+  }, {
+    "language" : "de",
+    "title" : "Was Euclid messen wird: Baryonische akustische Oszillationen"
+  }, {
+    "language" : "nl",
+    "title" : "Wat Euclides zal meten: Baryonische akoestische oscillaties"
+  }, {
+    "language" : "fr",
+    "title" : "Ce qu'Euclid mesurera : les oscillations acoustiques baryoniques"
+  }, {
+    "language" : "es",
+    "title" : "Lo que medirá Euclid: Oscilaciones acústicas bariónicas"
+  } ],
+  "prev" : "wl",
+  "next" : "catalogue"
+}, {
+  "page" : "catalogue",
+  "data" : [ {
+    "language" : "en",
+    "title" : "Euclid's treasure trove"
+  }, {
+    "language" : "it",
+    "title" : "Il tesoro di Euclide"
+  }, {
+    "language" : "de",
+    "title" : "Euklids Fundgrube"
+  }, {
+    "language" : "nl",
+    "title" : "De schat van Euclides"
+  }, {
+    "language" : "fr",
+    "title" : "Le trésor d'Euclide"
+  }, {
+    "language" : "es",
+    "title" : "El tesoro de Euclides"
+  } ],
+  "prev" : "bao",
+  "next" : "archive"
+}, {
+  "page" : "archive",
+  "data" : [ {
+    "language" : "en",
+    "title" : "Astronomy science archive: Maximising science from our missions"
+  }, {
+    "language" : "it",
+    "title" : "Archivio scientifico dell'astronomia: Massimizzare la scienza delle nostre missioni"
+  }, {
+    "language" : "de",
+    "title" : "Astronomisches Wissenschaftsarchiv: Maximierung der wissenschaftlichen Ergebnisse unserer Missionen"
+  }, {
+    "language" : "nl",
+    "title" : "Astronomisch wetenschapsarchief: Maximale wetenschap uit onze missies"
+  }, {
+    "language" : "fr",
+    "title" : "Archives scientifiques de l'astronomie : Maximiser la science à partir de nos missions"
+  }, {
+    "language" : "es",
+    "title" : "Archivo de ciencia astronómica: Maximizar la ciencia de nuestras misiones"
+  } ],
+  "prev" : "catalogue",
+  "next" : "collaboration"
+}, {
+  "page" : "collaboration",
+  "data" : [ {
+    "language" : "en",
+    "title" : "Euclid: An ESA-led global collaboration"
+  }, {
+    "language" : "it",
+    "title" : "Euclid: Una collaborazione globale guidata dall'ESA"
+  }, {
+    "language" : "de",
+    "title" : "Euclid: Eine globale Zusammenarbeit unter der Leitung der ESA"
+  }, {
+    "language" : "nl",
+    "title" : "Euclides: Een wereldwijde samenwerking onder leiding van ESA"
+  }, {
+    "language" : "fr",
+    "title" : "Euclid : Une collaboration mondiale dirigée par l'ESA"
+  }, {
+    "language" : "es",
+    "title" : "Euclid: Una colaboración mundial dirigida por la ESA"
+  } ],
+  "prev" : "archive",
+  "next" : ""
+} ]

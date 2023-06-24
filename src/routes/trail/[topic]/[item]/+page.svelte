@@ -7,12 +7,14 @@
 <Navigation left={data.prev} right={data.next}/>
 
 <div>
-    {#each data.json as doc} 
-        {#if doc.lang === $locale}
+
+    {#each data.json.data as doc} 
+        {#if doc.language === $locale}
             <h1 class="text-white text-2xl"><span class="bg-red-600">{(doc.title).toUpperCase()}</span></h1>
             <div class="text-white prose px-3">{@html doc.html}</div>
         {/if}
     {/each}
+
 </div>
 <style>
     :global(.prose p) {
