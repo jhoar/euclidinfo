@@ -1,112 +1,88 @@
-{
-    "trails": [ 
-        {
-            "data": [
-                {
-                    "lang": "en", 
-                    "title": "Discover Euclid",
-                    "subtitle": "Learn all about the Euclid mission"
-                },
-                {
-                    "lang": "fr", 
-                    "title": "Découvrez Euclid",
-                    "subtitle": "Tout savoir sur la mission Euclid"
-                },
-                {
-                    "lang": "es", 
-                    "title": "Descubre Euclid",
-                    "subtitle": "Aprende todo sobre la misión Euclid"
-                },
-                {
-                    "lang": "de", 
-                    "title": "Euclid entdecken",
-                    "subtitle": "Erfahren Sie alles über die Euclid-Mission"
-                },
-                {
-                    "lang": "it", 
-                    "title": "Scoprire Euclid",
-                    "subtitle": "Scopri tutto sulla missione di Euclid"
-                },
-                {
-                    "lang": "nl", 
-                    "title": "Ontdek Euclid",
-                    "subtitle": "Leer alles over de Euclid-missie"
-                }
-            ],
-            "url": "trail/discover/intro",
-            "image": "/images/discover.jpg"
-        },
-        {
-            "data": [
-                {
-                    "lang": "en", 
-                    "title": "Euclid Science 101",
-                    "subtitle": "A whistle-stop tour of the mission science"
-                },
-                {
-                    "lang": "fr", 
-                    "title": "Science 101 d'Euclid",
-                    "subtitle": "Un tour d'horizon de la science de la mission"
-                },
-                {
-                    "lang": "es", 
-                    "title": "Ciencia de Euclid 101",
-                    "subtitle": "Un recorrido por la ciencia de la misión"
-                },
-                {
-                    "lang": "de", 
-                    "title": "Euclid Wissenschaft 101",
-                    "subtitle": "Ein kurzer Rundgang durch die Missionswissenschaft"
-                },
-                {
-                    "lang": "it", 
-                    "title": "Euclid Scienza 101",
-                    "subtitle": "Un tour in pillole della missione scientifica"
-                },
-                {
-                    "lang": "nl", 
-                    "title": "Euclid Wetenschap 101",
-                    "subtitle": "Een korte rondleiding door de missiewetenschap"
-                }
-            ],
-            "url": "trail/science101/intro",
-            "image": "/images/bao.jpg"
-        },
-        {
-            "data": [
-                {
-                    "lang": "en", 
-                    "title": "Mission Phases",
-                    "subtitle": "Overview of the Euclid mission phases"
-                },
-                {
-                    "lang": "fr", 
-                    "title": "Phases de la mission",
-                    "subtitle": "Aperçu des phases de la mission Euclid"
-                },
-                {
-                    "lang": "es", 
-                    "title": "Fases de la misión",
-                    "subtitle": "Resumen de las fases de la misión Euclid"
-                },
-                {
-                    "lang": "de", 
-                    "title": "Phasen der Mission",
-                    "subtitle": "Überblick über die Phasen der Euclid-Mission"
-                },
-                {
-                    "lang": "it", 
-                    "title": "Fasi della missione",
-                    "subtitle": "Panoramica delle fasi della missione Euclid"
-                },
-                {
-                    "lang": "nl", 
-                    "title": "Missie fasen",
-                    "subtitle": "Overzicht van de fasen van de Euclid-missie"
-                }
-            ],
-            "url": "trail/mission/leop",
-            "image": "/images/discover.jpg"
-        }
-    ]
-}
+[ {
+    "card": "discover",
+    "url": "trail/discover/intro",
+    "image": "/images/discover.jpg",
+    "data": [ {
+        "lang": "en", 
+        "title": "Discover Euclid",
+        "subtitle": "Learn all about the Euclid mission"
+    }, {
+        "lang": "fr", 
+        "title": "Découvrez Euclid",
+        "subtitle": "Tout savoir sur la mission Euclid"
+    }, {
+        "lang": "es", 
+        "title": "Descubre Euclid",
+        "subtitle": "Aprende todo sobre la misión Euclid"
+    }, {
+        "lang": "de", 
+        "title": "Euclid entdecken",
+        "subtitle": "Erfahren Sie alles über die Euclid-Mission"
+    }, {
+        "lang": "it", 
+        "title": "Scoprire Euclid",
+        "subtitle": "Scopri tutto sulla missione di Euclid"
+    }, {
+        "lang": "nl", 
+        "title": "Ontdek Euclid",
+        "subtitle": "Leer alles over de Euclid-missie"
+    } ]
+}, {
+    "card": "science101",
+    "url": "trail/science101/intro",
+    "image": "/images/bao.jpg",
+    "data": [ {
+        "lang": "en", 
+        "title": "Euclid Science 101",
+        "subtitle": "A whistle-stop tour of the mission science"
+    }, {
+        "lang": "fr", 
+        "title": "Science 101 d'Euclid",
+        "subtitle": "Un tour d'horizon de la science de la mission"
+    }, {
+        "lang": "es", 
+        "title": "Ciencia de Euclid 101",
+        "subtitle": "Un recorrido por la ciencia de la misión"
+    }, {
+        "lang": "de", 
+        "title": "Euclid Wissenschaft 101",
+        "subtitle": "Ein kurzer Rundgang durch die Missionswissenschaft"
+    }, {
+        "lang": "it", 
+        "title": "Euclid Scienza 101",
+        "subtitle": "Un tour in pillole della missione scientifica"
+    }, {
+        "lang": "nl", 
+        "title": "Euclid Wetenschap 101",
+        "subtitle": "Een korte rondleiding door de missiewetenschap"
+    } ]
+}, {
+    "card": "mission",
+    "url": "trail/mission/leop",
+    "image": "/images/discover.jpg",
+    "data": [ {
+        "lang": "en", 
+        "title": "Mission Phases",
+        "subtitle": "Overview of the Euclid mission phases"
+    }, {
+        "lang": "fr", 
+        "title": "Phases de la mission",
+        "subtitle": "Aperçu des phases de la mission Euclid"
+    }, {
+        "lang": "es", 
+        "title": "Fases de la misión",
+        "subtitle": "Resumen de las fases de la misión Euclid"
+    }, {
+        "lang": "de", 
+        "title": "Phasen der Mission",
+        "subtitle": "Überblick über die Phasen der Euclid-Mission"
+    }, {
+        "lang": "it", 
+        "title": "Fasi della missione",
+        "subtitle": "Panoramica delle fasi della missione Euclid"
+    }, {
+        "lang": "nl", 
+        "title": "Missie fasen",
+        "subtitle": "Overzicht van de fasen van de Euclid-missie"
+    } ]
+} ]
