@@ -2,6 +2,7 @@
 	import { onMount } from 'svelte';
 	import { locale } from '$lib/Store';
 	import { DateTime } from 'luxon';
+	import { clockheader } from './i18n';
 
 	function padTo2Digits(num: number) {
 		return num.toString().padStart(2, '0');
@@ -19,15 +20,6 @@
 
 		return `${padTo2Digits(days)}d ${padTo2Digits(hours)}h ${padTo2Digits(minutes)}m ${padTo2Digits(seconds)}s`;
 	}
-
-	let header : { [lang: string]: string } = {
-        'en' : 'Launch: ',
-        'fr' : 'Lancement :',
-        'es' : 'Lanzamiento:',
-        'de' : 'Start:',
-        'it' : 'Lancio:',
-        'nl' : 'Lancering:'
-    };
 
 	let utcZone: string = "UTC";
 	let kscZoneId: string = "America/New_York";
@@ -71,7 +63,7 @@
 </div>
 
 <div class="grid grid-cols-3 gap-3 p-2">
-	<div class="flex justify-end text-white">{header[$locale]}</div> 
+	<div class="flex justify-end text-white">{clockheader[$locale]}</div> 
 	<div class="flex col-span-2 justify-start text-white">{launch.toLocaleString(DateTime.DATETIME_MED_WITH_SECONDS)} {launch.zoneName}</div>
 	<div></div>
 	<div class="flex col-span-2 justify-start text-white">{launch.setZone(esocZoneId).toLocaleString(DateTime.DATETIME_MED_WITH_SECONDS)} CEST</div>	

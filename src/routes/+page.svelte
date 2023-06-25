@@ -1,33 +1,15 @@
 <script lang='ts'>
 	import Clock from '$lib/Clock.svelte';
 	import { locale } from '$lib/Store';
+	import { frontpageheader, frontpagestart } from '$lib/i18n'
     export let data;
-
-	let header : { [lang: string]: string } = {
-		'en' : 'Learn about Euclid',
-		'fr' : 'En savoir plus sur Euclid',
-		'es' : 'Aprender sobre Euclid',
-		'de' : 'Lernen Sie über Euclid',
-		'it' : 'Conoscere Euclid',
-		'nl' : 'Leer meer over Euclid'
-	};
-
-	let start : { [lang: string]: string } = {
-		'en' : 'Start',
-		'fr' : 'Commencer',
-		'es' : 'Empezar',
-		'de' : 'Starten',
-		'it' : 'Inizio',
-		'nl' : 'Start'
-	};
-
 </script>
 
 <Clock />
 
 <div class="container pt-16 mx-auto flex justify-center items-center">
 	<div class="imgbckspace-y-5 w-96">
-		<h1 class="h1 text-white flex justify-center py-2">{header[$locale]}</h1>
+		<h1 class="h1 text-white flex justify-center py-2">{frontpageheader[$locale]}</h1>
 		{#each data.carddata as card}
 			{#each card.data as data} 
 				{#if data.lang === $locale}
@@ -40,7 +22,7 @@
 						<div class='p-4 text-lg'>
 							{data.subtitle}
 						</div></section>
-					<footer class="card-footer flex justify-center bg-black rounded-none rounded-b-lg pl-1 py-2"><a class="btn rounded-md variant-filled-success py-1 text-black" href={card.url}>{start[$locale]}</a></footer>
+					<footer class="card-footer flex justify-center bg-black rounded-none rounded-b-lg pl-1 py-2"><a class="btn rounded-md variant-filled-success py-1 text-black" href={card.url}>{frontpagestart[$locale]}</a></footer>
 				</div>	
 				{/if}
 			{/each}
