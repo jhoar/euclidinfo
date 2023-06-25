@@ -9,6 +9,8 @@
 	import { AppShell, AppBar } from '@skeletonlabs/skeleton';
 	import { locale } from '$lib/Store';
 
+	export let data;
+
 </script>
 
 
@@ -19,7 +21,7 @@
 		<!-- App Bar -->
 		<AppBar background="bg-transparent">
 			<svelte:fragment slot="lead">
-				<a href='http://esa.int/euclid' target='_blank'><strong class="text-white text-2xl px-2 bg-red-600">Euclid</strong></a>
+				<a href={data.confdata.mission.url} target='_blank'><strong class="text-white text-2xl px-2 bg-red-600">{data.confdata.mission.name}</strong></a>
 			</svelte:fragment>
 			<svelte:fragment slot="trail">
 				<a class="text-white text-lg" href='/credits'>Credits</a>

@@ -28,7 +28,7 @@
 <div class="container pt-16 mx-auto flex justify-center items-center">
 	<div class="imgbckspace-y-5 w-96">
 		<h1 class="h1 text-white flex justify-center py-2">{header[$locale]}</h1>
-		{#each data.appdata as card}
+		{#each data.carddata as card}
 			{#each card.data as data} 
 				{#if data.lang === $locale}
 				<div class="card m-2">
