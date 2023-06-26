@@ -4,8 +4,13 @@
     import { preloadData } from '$app/navigation';
     export let data;
 
-    preloadData(data.prev);
-    preloadData(data.next);
+    import { browser } from '$app/environment';
+
+    if (browser) {
+        console.log("In browser")
+        preloadData(data.prev);
+        preloadData(data.next);
+    }
 
 </script>
 
