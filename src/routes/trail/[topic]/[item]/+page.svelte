@@ -1,17 +1,7 @@
 <script lang="ts">
 	import Navigation from '$lib/Navigation.svelte';
     import { locale } from '$lib/Store';
-    import { preloadData } from '$app/navigation';
     export let data;
-
-    import { browser } from '$app/environment';
-
-    if (browser) {
-        console.log("In browser")
-        preloadData(data.prev);
-        preloadData(data.next);
-    }
-
 </script>
 
 <Navigation left={data.prev} right={data.next}/>
