@@ -16,9 +16,9 @@ export async function load ( { fetch, params } ) {
                 const htmlFile = `\\data\\trail\\${params.topic}\\${lang['language']}\\${params.item}.html`;
                 const htmlresp = await fetch(htmlFile);
                 lang['html'] = await htmlresp.text();         
-                p = item['prev']
-                n = item['next']
             }
+            p = item['prev']
+            n = item['next']
         }        
     }
 
