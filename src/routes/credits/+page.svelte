@@ -10,6 +10,7 @@
     <li>Euclid Science 101: sci.esa.int</li>
     <li>Built with : <a href="https://kit.svelte.dev/">SvelteKit</a>, <a href="https://tailwindcss.com/TailwindCSS">TailwindCSS</a>, <a href="https://www.skeleton.dev/">Skeleton</a>, <a href="https://heroicons.com/">Heroicons</a></li>
     <li>Translations: <a href="https://www.deepl.com/translator">DeepL</a>.</li>
+    <li>Version: 1.0.1</li>
 </ul>
 
 <style>
