@@ -1,31 +1,72 @@
 [ {
+    "card": "launch",
+    "url": "https://www.esa.int/ESA_Multimedia/ESA_Web_TV",
+    "image": "/images/discover.jpg",
+    "data": [ {
+        "lang": "en", 
+        "title": "Watch the launch",
+        "subtitle": "Watch the launch live on ESA TV",
+        "button": "Watch"
+    }, {
+        "lang": "fr", 
+        "title": "Découvrez Euclid",
+        "subtitle": "Regardez le lancement en direct sur ESA TV",
+        "button": "Regarder"
+    }, {
+        "lang": "es", 
+        "title": "Ver el lanzamiento",
+        "subtitle": "Vea el lanzamiento en directo en ESA TV",
+        "button": "Ver"
+    }, {
+        "lang": "de", 
+        "title": "Den Start beobachten",
+        "subtitle": "Verfolgen Sie den Start live auf ESA TV",
+        "button": "Siehe"
+    }, {
+        "lang": "it", 
+        "title": "Guarda il lancio",
+        "subtitle": "Guarda il lancio in diretta su ESA TV",
+        "button": "Guarda"
+    }, {
+        "lang": "nl", 
+        "title": "Bekijk de lancering",
+        "subtitle": "Bekijk de lancering live op ESA TV",
+        "button": "Kijk op"
+    } ]
+}, {
     "card": "discover",
     "url": "trail/discover/intro",
     "image": "/images/discover.jpg",
     "data": [ {
         "lang": "en", 
         "title": "Discover Euclid",
-        "subtitle": "Learn all about the Euclid mission"
+        "subtitle": "Learn all about the Euclid mission",
+        "button": "Start"
     }, {
         "lang": "fr", 
         "title": "Découvrez Euclid",
-        "subtitle": "Tout savoir sur la mission Euclid"
+        "subtitle": "Tout savoir sur la mission Euclid",
+        "button": "Commencer"
     }, {
         "lang": "es", 
         "title": "Descubre Euclid",
-        "subtitle": "Aprende todo sobre la misión Euclid"
+        "subtitle": "Aprende todo sobre la misión Euclid",
+        "button": "Empezar"
     }, {
         "lang": "de", 
         "title": "Euclid entdecken",
-        "subtitle": "Erfahren Sie alles über die Euclid-Mission"
+        "subtitle": "Erfahren Sie alles über die Euclid-Mission",
+        "button": "Starten"
     }, {
         "lang": "it", 
         "title": "Scoprire Euclid",
-        "subtitle": "Scopri tutto sulla missione di Euclid"
+        "subtitle": "Scopri tutto sulla missione di Euclid",
+        "button": "Inizio"
     }, {
         "lang": "nl", 
         "title": "Ontdek Euclid",
-        "subtitle": "Leer alles over de Euclid-missie"
+        "subtitle": "Leer alles over de Euclid-missie",
+        "button": "Start"
     } ]
 }, {
     "card": "science101",
@@ -34,27 +75,33 @@
     "data": [ {
         "lang": "en", 
         "title": "Euclid Science 101",
-        "subtitle": "A whistle-stop tour of the mission science"
+        "subtitle": "A whistle-stop tour of the mission science",
+        "button": "Start"
     }, {
         "lang": "fr", 
         "title": "Science 101 d'Euclid",
-        "subtitle": "Un tour d'horizon de la science de la mission"
+        "subtitle": "Un tour d'horizon de la science de la mission",
+        "button": "Commencer"
     }, {
         "lang": "es", 
         "title": "Ciencia de Euclid 101",
-        "subtitle": "Un recorrido por la ciencia de la misión"
+        "subtitle": "Un recorrido por la ciencia de la misión",
+        "button": "Empezar"
     }, {
         "lang": "de", 
         "title": "Euclid Wissenschaft 101",
-        "subtitle": "Ein kurzer Rundgang durch die Missionswissenschaft"
+        "subtitle": "Ein kurzer Rundgang durch die Missionswissenschaft",
+        "button": "Starten"
     }, {
         "lang": "it", 
         "title": "Euclid Scienza 101",
-        "subtitle": "Un tour in pillole della missione scientifica"
+        "subtitle": "Un tour in pillole della missione scientifica",
+        "button": "Inizio"
     }, {
         "lang": "nl", 
         "title": "Euclid Wetenschap 101",
-        "subtitle": "Een korte rondleiding door de missiewetenschap"
+        "subtitle": "Een korte rondleiding door de missiewetenschap",
+        "button": "Start"
     } ]
 }, {
     "card": "mission",
@@ -63,26 +110,32 @@
     "data": [ {
         "lang": "en", 
         "title": "Mission Phases",
-        "subtitle": "Overview of the Euclid mission phases"
+        "subtitle": "Overview of the Euclid mission phases",
+        "button": "Start"
     }, {
         "lang": "fr", 
         "title": "Phases de la mission",
-        "subtitle": "Aperçu des phases de la mission Euclid"
+        "subtitle": "Aperçu des phases de la mission Euclid",
+        "button": "Commencer"
     }, {
         "lang": "es", 
         "title": "Fases de la misión",
-        "subtitle": "Resumen de las fases de la misión Euclid"
+        "subtitle": "Resumen de las fases de la misión Euclid",
+        "button": "Empezar"
     }, {
         "lang": "de", 
         "title": "Phasen der Mission",
-        "subtitle": "Überblick über die Phasen der Euclid-Mission"
+        "subtitle": "Überblick über die Phasen der Euclid-Mission",
+        "button": "Starten"
     }, {
         "lang": "it", 
         "title": "Fasi della missione",
-        "subtitle": "Panoramica delle fasi della missione Euclid"
+        "subtitle": "Panoramica delle fasi della missione Euclid",
+        "button": "Inizio"
     }, {
         "lang": "nl", 
         "title": "Missie fasen",
-        "subtitle": "Overzicht van de fasen van de Euclid-missie"
+        "subtitle": "Overzicht van de fasen van de Euclid-missie",
+        "button": "Start"
     } ]
 } ]

@@ -7,15 +7,6 @@ let frontpageheader : { [lang: string]: string } = {
     'nl' : 'Leer meer over Euclid'
 };
 
-let frontpagestart : { [lang: string]: string } = {
-    'en' : 'Start',
-    'fr' : 'Commencer',
-    'es' : 'Empezar',
-    'de' : 'Starten',
-    'it' : 'Inizio',
-    'nl' : 'Start'
-};
-
 let clockheader : { [lang: string]: string } = {
     'en' : 'Launch: ',
     'fr' : 'Lancement :',
@@ -25,4 +16,4 @@ let clockheader : { [lang: string]: string } = {
     'nl' : 'Lancering:'
 };
 
-export {frontpageheader, frontpagestart, clockheader}
+export {frontpageheader, clockheader}
