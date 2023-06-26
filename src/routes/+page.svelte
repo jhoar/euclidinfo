@@ -7,8 +7,9 @@
 
 <Clock />
 
-<div class="container pt-16 mx-auto flex justify-center items-center">
+<div class="container pt-10 mx-auto flex justify-center items-center">
 	<div class="imgbckspace-y-5 w-96">
+		<div class="text-3xl text-red-500 flex justify-center pb-8"><a href='https://www.esa.int/ESA_Multimedia/ESA_Web_TV'>Watch the launch live!</a></div>
 		<h1 class="h1 text-white flex justify-center py-2">{frontpageheader[$locale]}</h1>
 		{#each data.carddata as card}
 			{#each card.data as data} 
