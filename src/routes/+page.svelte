@@ -5,8 +5,6 @@
     export let data;
 </script>
 
-<Clock />
-
 <div class="container pt-10 mx-auto flex justify-center items-center">
 	<div class="imgbckspace-y-5 w-96">
 		<h1 class="h1 text-white flex justify-center py-2">{frontpageheader[$locale]}</h1>
